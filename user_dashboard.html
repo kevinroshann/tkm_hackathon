@@ -1,0 +1,451 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Emergency Response - User Portal</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: #f0f2f5;
+            color: #333;
+            line-height: 1.6;
+        }
+
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+
+        header {
+            background: #2c3e50;
+            color: white;
+            padding: 30px 20px;
+            text-align: center;
+            margin-bottom: 30px;
+            border-radius: 8px;
+        }
+
+        header h1 {
+            font-size: 2em;
+            margin-bottom: 10px;
+        }
+
+        header p {
+            opacity: 0.9;
+            font-size: 1.1em;
+        }
+
+        .card {
+            background: white;
+            border-radius: 8px;
+            padding: 30px;
+            margin-bottom: 20px;
+            box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+        }
+
+        .form-group {
+            margin-bottom: 20px;
+        }
+
+        label {
+            display: block;
+            margin-bottom: 8px;
+            font-weight: 600;
+            color: #2c3e50;
+        }
+
+        input[type="text"],
+        input[type="tel"],
+        textarea {
+            width: 100%;
+            padding: 12px;
+            border: 2px solid #ddd;
+            border-radius: 6px;
+            font-size: 1em;
+            font-family: inherit;
+            transition: border-color 0.3s;
+        }
+
+        input:focus,
+        textarea:focus {
+            outline: none;
+            border-color: #3498db;
+        }
+
+        textarea {
+            min-height: 120px;
+            resize: vertical;
+        }
+
+        button {
+            background: #3498db;
+            color: white;
+            padding: 15px 40px;
+            border: none;
+            border-radius: 6px;
+            font-size: 1.1em;
+            font-weight: 600;
+            cursor: pointer;
+            width: 100%;
+            transition: background 0.3s;
+        }
+
+        button:hover {
+            background: #2980b9;
+        }
+
+        button:disabled {
+            background: #95a5a6;
+            cursor: not-allowed;
+        }
+
+        .alert {
+            padding: 15px 20px;
+            border-radius: 6px;
+            margin-bottom: 20px;
+            display: none;
+        }
+
+        .alert.success {
+            background: #d4edda;
+            color: #155724;
+            border: 1px solid #c3e6cb;
+        }
+
+        .alert.error {
+            background: #f8d7da;
+            color: #721c24;
+            border: 1px solid #f5c6cb;
+        }
+
+        .result-card {
+            background: white;
+            border-radius: 8px;
+            padding: 25px;
+            margin-top: 20px;
+            box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+            display: none;
+        }
+
+        .result-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 20px;
+            padding-bottom: 15px;
+            border-bottom: 2px solid #eee;
+        }
+
+        .result-id {
+            font-size: 0.9em;
+            color: #666;
+        }
+
+        .priority-badge {
+            padding: 6px 15px;
+            border-radius: 20px;
+            font-weight: 600;
+            font-size: 0.9em;
+        }
+
+        .priority-badge.CRITICAL {
+            background: #dc3545;
+            color: white;
+        }
+
+        .priority-badge.URGENT {
+            background: #ffc107;
+            color: #333;
+        }
+
+        .priority-badge.STANDARD {
+            background: #28a745;
+            color: white;
+        }
+
+        .severity-bar {
+            width: 100%;
+            height: 30px;
+            background: #eee;
+            border-radius: 15px;
+            overflow: hidden;
+            margin: 15px 0;
+        }
+
+        .severity-fill {
+            height: 100%;
+            background: linear-gradient(to right, #28a745, #ffc107, #dc3545);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            color: white;
+            font-weight: 600;
+            transition: width 0.5s ease;
+        }
+
+        .departments {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 10px;
+            margin: 15px 0;
+        }
+
+        .dept-tag {
+            background: #3498db;
+            color: white;
+            padding: 8px 15px;
+            border-radius: 20px;
+            font-size: 0.9em;
+            font-weight: 500;
+        }
+
+        .action-text {
+            background: #f8f9fa;
+            padding: 15px;
+            border-left: 4px solid #3498db;
+            margin-top: 15px;
+            font-weight: 500;
+        }
+
+        .spinner {
+            border: 3px solid #f3f3f3;
+            border-top: 3px solid #3498db;
+            border-radius: 50%;
+            width: 30px;
+            height: 30px;
+            animation: spin 1s linear infinite;
+            margin: 20px auto;
+            display: none;
+        }
+
+        @keyframes spin {
+            0% {
+                transform: rotate(0deg);
+            }
+
+            100% {
+                transform: rotate(360deg);
+            }
+        }
+
+        .info-text {
+            color: #666;
+            font-size: 0.9em;
+            margin-top: 8px;
+        }
+
+        @media (max-width: 600px) {
+            .container {
+                padding: 10px;
+            }
+
+            header h1 {
+                font-size: 1.5em;
+            }
+
+            .card {
+                padding: 20px;
+            }
+        }
+    </style>
+</head>
+
+<body>
+    <div class="container">
+        <header>
+            <h1>🚨 Emergency Response System</h1>
+            <p>Register Your Complaint</p>
+        </header>
+
+        <div class="alert" id="alert"></div>
+
+        <div class="card">
+            <form id="complaintForm">
+                <div class="form-group">
+                    <label for="userName">Your Name *</label>
+                    <input type="text" id="userName" required placeholder="Enter your full name">
+                </div>
+
+                <div class="form-group">
+                    <label for="userContact">Contact Number *</label>
+                    <input type="tel" id="userContact" required placeholder="Enter your phone number">
+                </div>
+
+                <div class="form-group">
+                    <label for="complaint">Emergency Description *</label>
+                    <textarea id="complaint" required
+                        placeholder="Describe the emergency situation in detail..."></textarea>
+                    <div class="info-text">Provide as much detail as possible to ensure appropriate response. SOS will
+                        be automatically flagged for critical emergencies.</div>
+                </div>
+
+                <button type="submit" id="submitBtn">Submit Complaint</button>
+            </form>
+        </div>
+
+        <div class="spinner" id="spinner"></div>
+
+        <div class="result-card" id="resultCard">
+            <div class="result-header">
+                <div class="result-id" id="resultId"></div>
+                <div style="display: flex; gap: 10px; align-items: center;">
+                    <div id="sosIndicator"
+                        style="display: none; background: #dc3545; color: white; padding: 6px 15px; border-radius: 20px; font-weight: 600; font-size: 0.9em;">
+                        🚨 AUTO-SOS TRIGGERED
+                    </div>
+                    <div class="priority-badge" id="priorityBadge"></div>
+                </div>
+            </div>
+
+            <h3>Analysis Results</h3>
+
+            <div>
+                <strong>Severity Score:</strong>
+                <div class="severity-bar">
+                    <div class="severity-fill" id="severityFill"></div>
+                </div>
+            </div>
+
+            <div>
+                <strong>Assigned Departments:</strong>
+                <div class="departments" id="departments"></div>
+            </div>
+
+            <div class="action-text" id="actionText"></div>
+        </div>
+    </div>
+
+    <script>
+        const API_URL = 'http://localhost:5000';
+
+        let autoRefreshInterval = null;
+
+        // Start auto-refresh when page loads
+        window.addEventListener('load', () => {
+            // Auto-refresh every 3 seconds to check for server status
+            autoRefreshInterval = setInterval(checkServerStatus, 3000);
+        });
+
+        async function checkServerStatus() {
+            try {
+                const response = await fetch(`${API_URL}/health`);
+                if (response.ok) {
+                    // Server is running, update UI if needed
+                }
+            } catch (error) {
+                // Server might be down, but don't show error unless user tries to submit
+            }
+        }
+
+        // Form submission
+        document.getElementById('complaintForm').addEventListener('submit', async (e) => {
+            e.preventDefault();
+
+            const userName = document.getElementById('userName').value;
+            const userContact = document.getElementById('userContact').value;
+            const complaint = document.getElementById('complaint').value;
+
+            // Show spinner
+            document.getElementById('spinner').style.display = 'block';
+            document.getElementById('submitBtn').disabled = true;
+            document.getElementById('resultCard').style.display = 'none';
+            hideAlert();
+
+            try {
+                const response = await fetch(`${API_URL}/predict`, {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json'
+                    },
+                    body: JSON.stringify({
+                        text: complaint,
+                        sos: 0, // Will be auto-determined by severity
+                        user_name: userName,
+                        user_contact: userContact
+                    })
+                });
+
+                const data = await response.json();
+
+                if (response.ok) {
+                    displayResult(data);
+                    showAlert('Complaint registered successfully!', 'success');
+                    document.getElementById('complaintForm').reset();
+                } else {
+                    showAlert('Error: ' + (data.error || 'Failed to submit complaint'), 'error');
+                }
+            } catch (error) {
+                showAlert('Failed to connect to server. Please ensure the API server is running.', 'error');
+                console.error('Error:', error);
+            } finally {
+                document.getElementById('spinner').style.display = 'none';
+                document.getElementById('submitBtn').disabled = false;
+            }
+        });
+
+        function displayResult(data) {
+            document.getElementById('resultId').textContent = `Complaint ID: ${data.id}`;
+            document.getElementById('priorityBadge').textContent = data.priority;
+            document.getElementById('priorityBadge').className = `priority-badge ${data.priority}`;
+
+            // Show SOS indicator if auto-triggered
+            const sosIndicator = document.getElementById('sosIndicator');
+            if (data.sos) {
+                sosIndicator.style.display = 'block';
+            } else {
+                sosIndicator.style.display = 'none';
+            }
+
+            const severityFill = document.getElementById('severityFill');
+            severityFill.style.width = data.severity + '%';
+            severityFill.textContent = data.severity + '/100';
+
+            const deptsContainer = document.getElementById('departments');
+            deptsContainer.innerHTML = '';
+            data.departments.forEach(dept => {
+                const tag = document.createElement('div');
+                tag.className = 'dept-tag';
+                tag.textContent = dept;
+                deptsContainer.appendChild(tag);
+            });
+
+            document.getElementById('actionText').textContent = '📋 ' + data.action;
+
+            // Add SOS notice if triggered
+            if (data.sos) {
+                const sosNotice = document.createElement('div');
+                sosNotice.style.cssText = 'margin-top: 15px; padding: 12px; background: #fff3cd; border-left: 4px solid #ffc107; border-radius: 4px; font-weight: 500;';
+                sosNotice.innerHTML = '⚠️ This complaint was automatically flagged as SOS due to high severity (≥90)';
+                document.getElementById('resultCard').appendChild(sosNotice);
+            }
+
+            document.getElementById('resultCard').style.display = 'block';
+        }
+
+        function showAlert(message, type) {
+            const alert = document.getElementById('alert');
+            alert.textContent = message;
+            alert.className = `alert ${type}`;
+            alert.style.display = 'block';
+
+            setTimeout(() => {
+                hideAlert();
+            }, 5000);
+        }
+
+        function hideAlert() {
+            document.getElementById('alert').style.display = 'none';
+        }
+    </script>
+</body>
+
+</html>
