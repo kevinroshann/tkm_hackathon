@@ -33,5 +33,86 @@
     "resolved": false,
     "resolved_by": [],
     "resolved_at": null
+  },
+  {
+    "id": "20260128084250229389",
+    "timestamp": "2026-01-28T08:42:50.229425",
+    "user_name": "kevin",
+    "user_contact": "121",
+    "complaint": "fire on 4th floor\n",
+    "sos": true,
+    "departments": [
+      "Environmental",
+      "Fire",
+      "Medical",
+      "Police"
+    ],
+    "initial_depts": [
+      "Environmental",
+      "Fire",
+      "Medical",
+      "Police"
+    ],
+    "backup_requests": [],
+    "severity": 100,
+    "priority": "CRITICAL",
+    "action": "IMMEDIATE EMERGENCY DEPLOYMENT",
+    "resolved": false,
+    "resolved_by": [],
+    "resolved_at": null
+  },
+  {
+    "id": "20260128093827723730",
+    "timestamp": "2026-01-28T09:38:27.723803",
+    "user_name": "kevin",
+    "user_contact": "2",
+    "complaint": "fire on 4th floor\n",
+    "sos": true,
+    "departments": [
+      "Environmental",
+      "Fire",
+      "Medical",
+      "Police"
+    ],
+    "initial_depts": [
+      "Environmental",
+      "Fire",
+      "Medical",
+      "Police"
+    ],
+    "backup_requests": [],
+    "severity": 100,
+    "priority": "CRITICAL",
+    "action": "IMMEDIATE EMERGENCY DEPLOYMENT",
+    "resolved": false,
+    "resolved_by": [],
+    "resolved_at": null
+  },
+  {
+    "id": "20260128111937246189",
+    "timestamp": "2026-01-28T11:19:37.246237",
+    "user_name": "kevin ",
+    "user_contact": "123456767",
+    "complaint": "house caught on fire",
+    "sos": true,
+    "departments": [
+      "Environmental",
+      "Fire",
+      "Medical",
+      "Police"
+    ],
+    "initial_depts": [
+      "Environmental",
+      "Fire",
+      "Medical",
+      "Police"
+    ],
+    "backup_requests": [],
+    "severity": 96,
+    "priority": "CRITICAL",
+    "action": "IMMEDIATE EMERGENCY DEPLOYMENT",
+    "resolved": false,
+    "resolved_by": [],
+    "resolved_at": null
   }
 ]

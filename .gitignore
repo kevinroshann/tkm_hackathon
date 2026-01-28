@@ -2,3 +2,7 @@
 *.joblib
 *.pt
 *.pkl
+.env
+
+# But keep this specific file
+!landslide_model.pkl

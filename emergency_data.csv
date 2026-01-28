@@ -1,801 +1,801 @@
 text,departments,severity,sos
-URGENT: explosion heard in the industrial district near the Mall.,"Fire,Police,Medical,Utilities",100,1
-Calling about a pothole reported on a quiet residential street near Downtown.,Public Works,10,0
-Reporting a broken water main flooding the downtown street near the Port.,"Utilities,Public Works",52,0
-Calling about a raccoon trapped in a residential chimney near the Mall.,Animal Control,35,1
-I see a suicidal individual on the bridge ledge near Oak Road.,"Police,Medical,Social Services",100,1
-URGENT: street light out at a busy intersection near the Suburbs.,"Public Works,Utilities",10,0
-I see a elderly person collapsed with chest pain near the Mall.,Medical,100,1
-URGENT: raccoon trapped in a residential chimney near the East Side.,Animal Control,17,0
-There is a street light out at a busy intersection near Main St.,"Public Works,Utilities",32,1
-URGENT: oil tanker leaking in the harbor near the Suburbs.,"Coastal Guard,Environmental",75,0
-Reporting a explosion heard in the industrial district near the East Side.,"Fire,Police,Medical,Utilities",99,0
-There is a active shooter in the shopping mall near the Port.,"Police,Medical",100,0
-Calling about a wildfire approaching residential area near Main St.,"Fire,Police,Environmental",97,0
-URGENT: illegal dumping of toxic waste in the river near Main St.,"Environmental,Police",70,0
-Reporting a pothole reported on a quiet residential street near the Mall.,Public Works,10,0
-Calling about a large warehouse fire with chemical containers near Main St.,"Fire,Environmental,Medical",97,0
-There is a suicidal individual on the bridge ledge near the Port.,"Police,Medical,Social Services",100,1
-Calling about a active shooter in the shopping mall near the East Side.,"Police,Medical",94,0
-There is a someone trying to hack into my bank account near Main St.,"Cyber,Police",37,0
-URGENT: illegal dumping of toxic waste in the river near Main St.,"Environmental,Police",68,0
-Reporting a domestic dispute with loud screaming near the Mall.,"Police,Social Services",75,1
-Reporting a street light out at a busy intersection near Main St.,"Public Works,Utilities",20,0
-Calling about a wildfire approaching residential area near Downtown.,"Fire,Police,Environmental",91,0
-"URGENT: car accident, vehicle flipped and smoking near the Mall.","Fire,Medical,Police",88,0
-I see a explosion heard in the industrial district near Downtown.,"Fire,Police,Medical,Utilities",99,0
-There is a cyber attack on city water treatment plant near the Suburbs.,"Cyber,Utilities,Public Works",100,1
-Calling about a suicidal individual on the bridge ledge near the Port.,"Police,Medical,Social Services",97,0
-Calling about a homeless camp needing a welfare check near the Suburbs.,Social Services,16,0
-There is a power lines down on a flooded street near the Port.,"Utilities,Fire,Public Works",95,1
-Calling about a boat sinking with 5 passengers on board near Main St.,"Coastal Guard,Medical",93,0
-There is a wildfire approaching residential area near the Mall.,"Fire,Police,Environmental",85,0
-"Calling about a car accident, vehicle flipped and smoking near the Port.","Fire,Medical,Police",100,1
-URGENT: pothole reported on a quiet residential street near the East Side.,Public Works,12,0
-There is a active shooter in the shopping mall near Downtown.,"Police,Medical",96,0
-URGENT: testing connection near the Suburbs.,Utilities,8,0
-URGENT: someone trying to hack into my bank account near the Port.,"Cyber,Police",51,0
-URGENT: stabbing incident during a street fight near the East Side.,"Police,Medical",91,0
-Calling about a boat sinking with 5 passengers on board near the East Side.,"Coastal Guard,Medical",100,1
-I see a wildfire approaching residential area near the Mall.,"Fire,Police,Environmental",98,0
-URGENT: broken water main flooding the downtown street near the Mall.,"Utilities,Public Works",67,0
-I see a child found alone and shivering in the park near Downtown.,"Social Services,Police",26,0
-Reporting a suicidal individual on the bridge ledge near Downtown.,"Police,Medical,Social Services",87,0
-There is a child found alone and shivering in the park near the Suburbs.,"Social Services,Police",28,0
-URGENT: domestic dispute with loud screaming near Downtown.,"Police,Social Services",55,0
-URGENT: boat sinking with 5 passengers on board near Main St.,"Coastal Guard,Medical",96,0
-"There is a car accident, vehicle flipped and smoking near the East Side.","Fire,Medical,Police",83,0
-I see a large warehouse fire with chemical containers near the East Side.,"Fire,Environmental,Medical",98,0
-Calling about a broken water main flooding the downtown street near Main St.,"Utilities,Public Works",61,0
-I see a boat sinking with 5 passengers on board near the Suburbs.,"Coastal Guard,Medical",100,0
-URGENT: large warehouse fire with chemical containers near Downtown.,"Fire,Environmental,Medical",100,1
-Calling about a someone trying to hack into my bank account near Main St.,"Cyber,Police",48,0
-I see a aggressive pitbull attacking a pedestrian near the Suburbs.,"Animal Control,Medical,Police",61,0
-URGENT: aggressive pitbull attacking a pedestrian near Main St.,"Animal Control,Medical,Police",59,0
-There is a someone trying to hack into my bank account near Oak Road.,"Cyber,Police",40,0
-There is a suicidal individual on the bridge ledge near Oak Road.,"Police,Medical,Social Services",98,0
-Reporting a large warehouse fire with chemical containers near Oak Road.,"Fire,Environmental,Medical",99,0
-There is a aggressive pitbull attacking a pedestrian near Oak Road.,"Animal Control,Medical,Police",85,1
-There is a suicidal individual on the bridge ledge near Downtown.,"Police,Medical,Social Services",100,1
-Calling about a homeless camp needing a welfare check near the Port.,Social Services,19,0
-Calling about a active shooter in the shopping mall near Oak Road.,"Police,Medical",100,0
-Calling about a active shooter in the shopping mall near Oak Road.,"Police,Medical",96,0
-There is a illegal dumping of toxic waste in the river near Main St.,"Environmental,Police",66,0
-Reporting a domestic dispute with loud screaming near Oak Road.,"Police,Social Services",75,1
-There is a street light out at a busy intersection near Main St.,"Public Works,Utilities",6,0
-Calling about a boat sinking with 5 passengers on board near Main St.,"Coastal Guard,Medical",87,0
-I see a domestic dispute with loud screaming near Downtown.,"Police,Social Services",75,1
-Calling about a gas smell in the apartment basement near Main St.,"Fire,Utilities",74,0
-I see a boat sinking with 5 passengers on board near the Mall.,"Coastal Guard,Medical",96,0
-Reporting a large warehouse fire with chemical containers near the Suburbs.,"Fire,Environmental,Medical",100,1
-Reporting a someone trying to hack into my bank account near Downtown.,"Cyber,Police",65,1
-URGENT: someone trying to hack into my bank account near the Suburbs.,"Cyber,Police",40,0
-Calling about a street light out at a busy intersection near Oak Road.,"Public Works,Utilities",18,0
-There is a wildfire approaching residential area near the Port.,"Fire,Police,Environmental",99,0
-"There is a car accident, vehicle flipped and smoking near the Port.","Fire,Medical,Police",77,0
-Reporting a homeless camp needing a welfare check near Main St.,Social Services,40,1
-I see a domestic dispute with loud screaming near the Mall.,"Police,Social Services",47,0
-There is a gas smell in the apartment basement near the Suburbs.,"Fire,Utilities",76,0
-There is a boat sinking with 5 passengers on board near the Port.,"Coastal Guard,Medical",91,0
-I see a suicidal individual on the bridge ledge near Downtown.,"Police,Medical,Social Services",83,0
-I see a aggressive pitbull attacking a pedestrian near the East Side.,"Animal Control,Medical,Police",68,0
-I see a street light out at a busy intersection near Downtown.,"Public Works,Utilities",8,0
-Calling about a raccoon trapped in a residential chimney near the East Side.,Animal Control,35,1
-Calling about a oil tanker leaking in the harbor near the Port.,"Coastal Guard,Environmental",85,0
-I see a cyber attack on city water treatment plant near the Suburbs.,"Cyber,Utilities,Public Works",100,1
-I see a oil tanker leaking in the harbor near Downtown.,"Coastal Guard,Environmental",100,1
-I see a pothole reported on a quiet residential street near Oak Road.,Public Works,12,0
-Calling about a testing connection near Main St.,Utilities,1,0
-I see a explosion heard in the industrial district near the Mall.,"Fire,Police,Medical,Utilities",94,0
-URGENT: homeless camp needing a welfare check near the Suburbs.,Social Services,20,0
-Calling about a child found alone and shivering in the park near Downtown.,"Social Services,Police",27,0
-I see a child found alone and shivering in the park near the East Side.,"Social Services,Police",45,1
-There is a domestic dispute with loud screaming near Main St.,"Police,Social Services",75,1
-Reporting a cyber attack on city water treatment plant near the Mall.,"Cyber,Utilities,Public Works",100,1
-I see a large warehouse fire with chemical containers near the East Side.,"Fire,Environmental,Medical",87,0
-I see a someone trying to hack into my bank account near Downtown.,"Cyber,Police",65,1
-URGENT: gas smell in the apartment basement near the Mall.,"Fire,Utilities",81,0
-Calling about a elderly person collapsed with chest pain near Main St.,Medical,85,0
-There is a oil tanker leaking in the harbor near the Mall.,"Coastal Guard,Environmental",76,0
-Calling about a illegal dumping of toxic waste in the river near the Mall.,"Environmental,Police",66,0
-Calling about a homeless camp needing a welfare check near Main St.,Social Services,23,0
-URGENT: stabbing incident during a street fight near the Mall.,"Police,Medical",95,0
-Reporting a wildfire approaching residential area near Main St.,"Fire,Police,Environmental",91,0
-URGENT: someone trying to hack into my bank account near Oak Road.,"Cyber,Police",37,0
-Calling about a oil tanker leaking in the harbor near the East Side.,"Coastal Guard,Environmental",83,0
-Calling about a power lines down on a flooded street near Oak Road.,"Utilities,Fire,Public Works",82,0
-"I see a car accident, vehicle flipped and smoking near the Port.","Fire,Medical,Police",81,0
-There is a elderly person collapsed with chest pain near the Mall.,Medical,100,1
-URGENT: large warehouse fire with chemical containers near the Mall.,"Fire,Environmental,Medical",90,0
-Calling about a oil tanker leaking in the harbor near Downtown.,"Coastal Guard,Environmental",100,1
-Reporting a pothole reported on a quiet residential street near the East Side.,Public Works,15,0
-Calling about a gas smell in the apartment basement near Main St.,"Fire,Utilities",95,1
-I see a identity theft and fraudulent credit cards near Downtown.,"Cyber,Police",34,0
-Calling about a illegal dumping of toxic waste in the river near Downtown.,"Environmental,Police",76,0
-"Calling about a car accident, vehicle flipped and smoking near Downtown.","Fire,Medical,Police",100,1
-URGENT: raccoon trapped in a residential chimney near the Suburbs.,Animal Control,10,0
-I see a street light out at a busy intersection near the Suburbs.,"Public Works,Utilities",14,0
-I see a identity theft and fraudulent credit cards near Downtown.,"Cyber,Police",38,0
-URGENT: large warehouse fire with chemical containers near the East Side.,"Fire,Environmental,Medical",100,1
-Calling about a vandalism and graffiti on the school wall near the Port.,"Police,Public Works",30,1
-Reporting a stabbing incident during a street fight near Downtown.,"Police,Medical",100,1
-Reporting a gas smell in the apartment basement near the East Side.,"Fire,Utilities",69,0
-URGENT: illegal dumping of toxic waste in the river near the Port.,"Environmental,Police",76,0
-Reporting a street light out at a busy intersection near Oak Road.,"Public Works,Utilities",13,0
-There is a illegal dumping of toxic waste in the river near Downtown.,"Environmental,Police",67,0
-I see a stabbing incident during a street fight near the East Side.,"Police,Medical",85,0
-There is a street light out at a busy intersection near the Mall.,"Public Works,Utilities",7,0
-I see a gas smell in the apartment basement near the Mall.,"Fire,Utilities",76,0
-There is a boat sinking with 5 passengers on board near the Suburbs.,"Coastal Guard,Medical",89,0
-Calling about a large warehouse fire with chemical containers near the Mall.,"Fire,Environmental,Medical",100,1
-Calling about a illegal dumping of toxic waste in the river near Downtown.,"Environmental,Police",68,0
-URGENT: active shooter in the shopping mall near the Suburbs.,"Police,Medical",100,1
+Calling about a broken water main flooding the downtown street near Main St.,"Utilities,Public Works",55,0
+There is a oil tanker leaking in the harbor near the East Side.,"Coastal Guard,Environmental",88,0
+URGENT: domestic dispute with loud screaming near the Mall.,"Police,Social Services",52,0
+URGENT: elderly person collapsed with chest pain near Oak Road.,Medical,93,0
+I see a large warehouse fire with chemical containers near the East Side.,"Fire,Environmental,Medical",97,0
+Reporting a aggressive pitbull attacking a pedestrian near Oak Road.,"Animal Control,Medical,Police",57,0
+Calling about a pothole reported on a quiet residential street near Oak Road.,Public Works,28,1
+URGENT: raccoon trapped in a residential chimney near the Mall.,Animal Control,12,0
+I see a active shooter in the shopping mall near the Mall.,"Police,Medical",97,0
+Reporting a oil tanker leaking in the harbor near Main St.,"Coastal Guard,Environmental",100,1
+There is a explosion heard in the industrial district near Main St.,"Fire,Police,Medical,Utilities",100,0
+There is a child found alone and shivering in the park near the East Side.,"Social Services,Police",30,0
+Calling about a wildfire approaching residential area near the Mall.,"Fire,Police,Environmental",90,0
+Calling about a wildfire approaching residential area near the Port.,"Fire,Police,Environmental",95,0
+I see a stabbing incident during a street fight near the East Side.,"Police,Medical",86,0
 Calling about a active shooter in the shopping mall near the Port.,"Police,Medical",100,1
-There is a large warehouse fire with chemical containers near the Suburbs.,"Fire,Environmental,Medical",100,0
-Reporting a domestic dispute with loud screaming near the Port.,"Police,Social Services",49,0
-There is a illegal dumping of toxic waste in the river near the Port.,"Environmental,Police",71,0
-There is a power lines down on a flooded street near the Mall.,"Utilities,Fire,Public Works",76,0
-I see a wildfire approaching residential area near the Mall.,"Fire,Police,Environmental",100,0
-There is a broken water main flooding the downtown street near Oak Road.,"Utilities,Public Works",57,0
-URGENT: elderly person collapsed with chest pain near Oak Road.,Medical,80,0
-I see a suicidal individual on the bridge ledge near the Mall.,"Police,Medical,Social Services",96,0
-URGENT: power lines down on a flooded street near the Mall.,"Utilities,Fire,Public Works",69,0
-There is a gas smell in the apartment basement near the Mall.,"Fire,Utilities",78,0
-Reporting a boat sinking with 5 passengers on board near Main St.,"Coastal Guard,Medical",89,0
-There is a wildfire approaching residential area near Oak Road.,"Fire,Police,Environmental",91,0
-Reporting a explosion heard in the industrial district near the Port.,"Fire,Police,Medical,Utilities",100,1
-There is a homeless camp needing a welfare check near Downtown.,Social Services,21,0
-URGENT: power lines down on a flooded street near the Suburbs.,"Utilities,Fire,Public Works",77,0
-Reporting a gas smell in the apartment basement near the Port.,"Fire,Utilities",70,0
-URGENT: identity theft and fraudulent credit cards near Oak Road.,"Cyber,Police",33,0
-Calling about a street light out at a busy intersection near the Port.,"Public Works,Utilities",12,0
-There is a child found alone and shivering in the park near the Suburbs.,"Social Services,Police",24,0
-There is a suicidal individual on the bridge ledge near Downtown.,"Police,Medical,Social Services",97,0
-Calling about a large warehouse fire with chemical containers near the Port.,"Fire,Environmental,Medical",88,0
-I see a wildfire approaching residential area near Main St.,"Fire,Police,Environmental",100,1
-I see a large warehouse fire with chemical containers near the Port.,"Fire,Environmental,Medical",100,0
-There is a child found alone and shivering in the park near the Mall.,"Social Services,Police",26,0
-I see a active shooter in the shopping mall near Oak Road.,"Police,Medical",91,0
-URGENT: explosion heard in the industrial district near the Mall.,"Fire,Police,Medical,Utilities",100,0
-Calling about a child found alone and shivering in the park near the Suburbs.,"Social Services,Police",45,1
-Reporting a raccoon trapped in a residential chimney near the Port.,Animal Control,19,0
-URGENT: suicidal individual on the bridge ledge near Downtown.,"Police,Medical,Social Services",95,0
-Reporting a raccoon trapped in a residential chimney near the Port.,Animal Control,9,0
-I see a active shooter in the shopping mall near the Port.,"Police,Medical",94,0
-There is a someone trying to hack into my bank account near Oak Road.,"Cyber,Police",46,0
-Reporting a explosion heard in the industrial district near the Port.,"Fire,Police,Medical,Utilities",100,0
-Reporting a testing connection near the East Side.,Utilities,25,1
-URGENT: suicidal individual on the bridge ledge near Oak Road.,"Police,Medical,Social Services",100,1
-There is a illegal dumping of toxic waste in the river near the Mall.,"Environmental,Police",74,0
-There is a child found alone and shivering in the park near Oak Road.,"Social Services,Police",31,0
-URGENT: domestic dispute with loud screaming near Downtown.,"Police,Social Services",75,1
-Reporting a cyber attack on city water treatment plant near the Suburbs.,"Cyber,Utilities,Public Works",86,0
-There is a broken water main flooding the downtown street near Downtown.,"Utilities,Public Works",56,0
-URGENT: boat sinking with 5 passengers on board near the Mall.,"Coastal Guard,Medical",100,1
-URGENT: gas smell in the apartment basement near the Mall.,"Fire,Utilities",71,0
-URGENT: cyber attack on city water treatment plant near the Suburbs.,"Cyber,Utilities,Public Works",88,0
-Reporting a stabbing incident during a street fight near Main St.,"Police,Medical",89,0
-URGENT: vandalism and graffiti on the school wall near the Mall.,"Police,Public Works",15,0
-There is a identity theft and fraudulent credit cards near the Suburbs.,"Cyber,Police",44,0
-URGENT: street light out at a busy intersection near Oak Road.,"Public Works,Utilities",18,0
-URGENT: aggressive pitbull attacking a pedestrian near the East Side.,"Animal Control,Medical,Police",65,0
-"Calling about a car accident, vehicle flipped and smoking near Downtown.","Fire,Medical,Police",100,1
-URGENT: gas smell in the apartment basement near Main St.,"Fire,Utilities",95,1
-I see a wildfire approaching residential area near Main St.,"Fire,Police,Environmental",85,0
-I see a power lines down on a flooded street near Downtown.,"Utilities,Fire,Public Works",77,0
-"Reporting a car accident, vehicle flipped and smoking near the Suburbs.","Fire,Medical,Police",74,0
-Reporting a explosion heard in the industrial district near Oak Road.,"Fire,Police,Medical,Utilities",93,0
-I see a vandalism and graffiti on the school wall near Downtown.,"Police,Public Works",3,0
-I see a stabbing incident during a street fight near Oak Road.,"Police,Medical",91,0
-I see a homeless camp needing a welfare check near Main St.,Social Services,26,0
-There is a broken water main flooding the downtown street near the East Side.,"Utilities,Public Works",80,1
-Calling about a testing connection near the East Side.,Utilities,6,0
-There is a child found alone and shivering in the park near the East Side.,"Social Services,Police",45,1
-I see a domestic dispute with loud screaming near Main St.,"Police,Social Services",75,1
-There is a large warehouse fire with chemical containers near Main St.,"Fire,Environmental,Medical",98,0
-Reporting a homeless camp needing a welfare check near the Mall.,Social Services,27,0
-There is a boat sinking with 5 passengers on board near Downtown.,"Coastal Guard,Medical",100,1
-I see a testing connection near the East Side.,Utilities,1,0
-There is a explosion heard in the industrial district near Oak Road.,"Fire,Police,Medical,Utilities",100,0
-Reporting a power lines down on a flooded street near the Port.,"Utilities,Fire,Public Works",82,0
-Calling about a power lines down on a flooded street near the Mall.,"Utilities,Fire,Public Works",69,0
-Reporting a testing connection near the Suburbs.,Utilities,2,0
-There is a street light out at a busy intersection near the Mall.,"Public Works,Utilities",11,0
-Reporting a someone trying to hack into my bank account near the Port.,"Cyber,Police",37,0
-Calling about a elderly person collapsed with chest pain near Main St.,Medical,82,0
-Calling about a vandalism and graffiti on the school wall near Oak Road.,"Police,Public Works",6,0
-I see a pothole reported on a quiet residential street near the Suburbs.,Public Works,14,0
-URGENT: identity theft and fraudulent credit cards near Downtown.,"Cyber,Police",46,0
-I see a someone trying to hack into my bank account near Oak Road.,"Cyber,Police",52,0
-Calling about a testing connection near the Suburbs.,Utilities,25,1
-Reporting a boat sinking with 5 passengers on board near the Port.,"Coastal Guard,Medical",90,0
-Reporting a large warehouse fire with chemical containers near the East Side.,"Fire,Environmental,Medical",100,1
-There is a broken water main flooding the downtown street near the Port.,"Utilities,Public Works",80,1
-I see a someone trying to hack into my bank account near Downtown.,"Cyber,Police",46,0
-There is a raccoon trapped in a residential chimney near the East Side.,Animal Control,13,0
-Calling about a explosion heard in the industrial district near Main St.,"Fire,Police,Medical,Utilities",95,0
-URGENT: someone trying to hack into my bank account near Oak Road.,"Cyber,Police",37,0
-Reporting a wildfire approaching residential area near the East Side.,"Fire,Police,Environmental",100,1
-URGENT: explosion heard in the industrial district near Downtown.,"Fire,Police,Medical,Utilities",93,0
-I see a suicidal individual on the bridge ledge near the Suburbs.,"Police,Medical,Social Services",85,0
-Calling about a pothole reported on a quiet residential street near the Port.,Public Works,13,0
-URGENT: power lines down on a flooded street near the Suburbs.,"Utilities,Fire,Public Works",73,0
-I see a street light out at a busy intersection near the Suburbs.,"Public Works,Utilities",19,0
-There is a suicidal individual on the bridge ledge near the Port.,"Police,Medical,Social Services",96,0
-Reporting a child found alone and shivering in the park near the Mall.,"Social Services,Police",45,1
-URGENT: suicidal individual on the bridge ledge near Main St.,"Police,Medical,Social Services",88,0
-URGENT: broken water main flooding the downtown street near Oak Road.,"Utilities,Public Works",53,0
-"URGENT: car accident, vehicle flipped and smoking near the Suburbs.","Fire,Medical,Police",78,0
-URGENT: domestic dispute with loud screaming near Oak Road.,"Police,Social Services",75,1
-Calling about a active shooter in the shopping mall near the Suburbs.,"Police,Medical",91,0
-There is a testing connection near the East Side.,Utilities,6,0
-URGENT: raccoon trapped in a residential chimney near the Suburbs.,Animal Control,12,0
-URGENT: gas smell in the apartment basement near Downtown.,"Fire,Utilities",75,0
-There is a oil tanker leaking in the harbor near the Suburbs.,"Coastal Guard,Environmental",100,1
-Reporting a identity theft and fraudulent credit cards near the Suburbs.,"Cyber,Police",60,1
-I see a explosion heard in the industrial district near the Port.,"Fire,Police,Medical,Utilities",100,0
-Calling about a identity theft and fraudulent credit cards near the Mall.,"Cyber,Police",41,0
-Reporting a testing connection near the Mall.,Utilities,2,0
-I see a active shooter in the shopping mall near the Suburbs.,"Police,Medical",100,1
-I see a stabbing incident during a street fight near the Suburbs.,"Police,Medical",100,1
-Calling about a aggressive pitbull attacking a pedestrian near Downtown.,"Animal Control,Medical,Police",59,0
-URGENT: suicidal individual on the bridge ledge near the Mall.,"Police,Medical,Social Services",89,0
-There is a stabbing incident during a street fight near the Suburbs.,"Police,Medical",100,1
-URGENT: domestic dispute with loud screaming near the Port.,"Police,Social Services",59,0
-URGENT: street light out at a busy intersection near the Mall.,"Public Works,Utilities",32,1
-I see a aggressive pitbull attacking a pedestrian near Main St.,"Animal Control,Medical,Police",63,0
-I see a wildfire approaching residential area near the Suburbs.,"Fire,Police,Environmental",100,0
-URGENT: elderly person collapsed with chest pain near the Mall.,Medical,92,0
-Calling about a active shooter in the shopping mall near Oak Road.,"Police,Medical",100,1
-URGENT: suicidal individual on the bridge ledge near the East Side.,"Police,Medical,Social Services",88,0
-There is a cyber attack on city water treatment plant near the Port.,"Cyber,Utilities,Public Works",87,0
-URGENT: broken water main flooding the downtown street near the East Side.,"Utilities,Public Works",80,1
-There is a street light out at a busy intersection near the Mall.,"Public Works,Utilities",32,1
-I see a someone trying to hack into my bank account near the Suburbs.,"Cyber,Police",45,0
-I see a explosion heard in the industrial district near Main St.,"Fire,Police,Medical,Utilities",100,0
-Reporting a power lines down on a flooded street near Main St.,"Utilities,Fire,Public Works",78,0
-Reporting a testing connection near Oak Road.,Utilities,25,1
-Reporting a broken water main flooding the downtown street near the Port.,"Utilities,Public Works",63,0
-"Calling about a car accident, vehicle flipped and smoking near the Mall.","Fire,Medical,Police",80,0
-There is a stabbing incident during a street fight near the Mall.,"Police,Medical",91,0
-URGENT: boat sinking with 5 passengers on board near Main St.,"Coastal Guard,Medical",100,1
-I see a homeless camp needing a welfare check near Downtown.,Social Services,27,0
-URGENT: active shooter in the shopping mall near the Suburbs.,"Police,Medical",100,1
-I see a suicidal individual on the bridge ledge near the East Side.,"Police,Medical,Social Services",94,0
-URGENT: someone trying to hack into my bank account near the East Side.,"Cyber,Police",50,0
-I see a power lines down on a flooded street near the Port.,"Utilities,Fire,Public Works",73,0
-Reporting a stabbing incident during a street fight near the Port.,"Police,Medical",100,1
-There is a street light out at a busy intersection near Main St.,"Public Works,Utilities",32,1
-Reporting a explosion heard in the industrial district near the Suburbs.,"Fire,Police,Medical,Utilities",100,1
-There is a someone trying to hack into my bank account near the Suburbs.,"Cyber,Police",65,1
-I see a identity theft and fraudulent credit cards near Downtown.,"Cyber,Police",42,0
-There is a gas smell in the apartment basement near the Port.,"Fire,Utilities",77,0
-Calling about a vandalism and graffiti on the school wall near the Port.,"Police,Public Works",14,0
-There is a wildfire approaching residential area near Oak Road.,"Fire,Police,Environmental",98,0
-Calling about a gas smell in the apartment basement near the Mall.,"Fire,Utilities",75,0
-URGENT: testing connection near Downtown.,Utilities,1,0
-There is a boat sinking with 5 passengers on board near the Port.,"Coastal Guard,Medical",100,0
-Reporting a power lines down on a flooded street near Oak Road.,"Utilities,Fire,Public Works",95,1
-Reporting a explosion heard in the industrial district near Main St.,"Fire,Police,Medical,Utilities",100,0
-Calling about a identity theft and fraudulent credit cards near the Mall.,"Cyber,Police",32,0
-URGENT: illegal dumping of toxic waste in the river near Oak Road.,"Environmental,Police",78,0
-There is a domestic dispute with loud screaming near the Port.,"Police,Social Services",75,1
-Reporting a explosion heard in the industrial district near Main St.,"Fire,Police,Medical,Utilities",100,0
-Reporting a gas smell in the apartment basement near the East Side.,"Fire,Utilities",79,0
-URGENT: active shooter in the shopping mall near Oak Road.,"Police,Medical",96,0
-"Reporting a car accident, vehicle flipped and smoking near the Port.","Fire,Medical,Police",76,0
-Reporting a testing connection near Main St.,Utilities,25,1
-I see a pothole reported on a quiet residential street near the Suburbs.,Public Works,28,1
-URGENT: stabbing incident during a street fight near Main St.,"Police,Medical",100,1
-There is a oil tanker leaking in the harbor near the Port.,"Coastal Guard,Environmental",100,1
-URGENT: boat sinking with 5 passengers on board near Main St.,"Coastal Guard,Medical",93,0
-URGENT: raccoon trapped in a residential chimney near Downtown.,Animal Control,14,0
-Reporting a suicidal individual on the bridge ledge near the Port.,"Police,Medical,Social Services",90,0
-There is a active shooter in the shopping mall near Downtown.,"Police,Medical",95,0
-URGENT: large warehouse fire with chemical containers near the Suburbs.,"Fire,Environmental,Medical",87,0
-Calling about a someone trying to hack into my bank account near the Port.,"Cyber,Police",65,1
-URGENT: identity theft and fraudulent credit cards near the Suburbs.,"Cyber,Police",45,0
-There is a illegal dumping of toxic waste in the river near Oak Road.,"Environmental,Police",64,0
-Calling about a aggressive pitbull attacking a pedestrian near the East Side.,"Animal Control,Medical,Police",57,0
-Reporting a large warehouse fire with chemical containers near the Mall.,"Fire,Environmental,Medical",96,0
-URGENT: street light out at a busy intersection near Oak Road.,"Public Works,Utilities",19,0
-I see a identity theft and fraudulent credit cards near Main St.,"Cyber,Police",60,1
-Reporting a domestic dispute with loud screaming near Main St.,"Police,Social Services",63,0
-URGENT: identity theft and fraudulent credit cards near the East Side.,"Cyber,Police",44,0
-There is a pothole reported on a quiet residential street near the Suburbs.,Public Works,7,0
-Reporting a identity theft and fraudulent credit cards near Main St.,"Cyber,Police",60,1
-There is a broken water main flooding the downtown street near the East Side.,"Utilities,Public Works",57,0
-I see a pothole reported on a quiet residential street near the Mall.,Public Works,1,0
-Calling about a vandalism and graffiti on the school wall near the Mall.,"Police,Public Works",18,0
-Calling about a broken water main flooding the downtown street near the Suburbs.,"Utilities,Public Works",58,0
-URGENT: gas smell in the apartment basement near the Mall.,"Fire,Utilities",70,0
-There is a boat sinking with 5 passengers on board near Downtown.,"Coastal Guard,Medical",99,0
-There is a raccoon trapped in a residential chimney near the Suburbs.,Animal Control,35,1
-"URGENT: car accident, vehicle flipped and smoking near the East Side.","Fire,Medical,Police",74,0
-There is a explosion heard in the industrial district near Oak Road.,"Fire,Police,Medical,Utilities",100,0
-"URGENT: car accident, vehicle flipped and smoking near the Port.","Fire,Medical,Police",84,0
-I see a power lines down on a flooded street near Oak Road.,"Utilities,Fire,Public Works",74,0
-Reporting a domestic dispute with loud screaming near the Port.,"Police,Social Services",49,0
-Reporting a suicidal individual on the bridge ledge near the East Side.,"Police,Medical,Social Services",97,0
-I see a pothole reported on a quiet residential street near Downtown.,Public Works,28,1
-I see a raccoon trapped in a residential chimney near Downtown.,Animal Control,10,0
-URGENT: boat sinking with 5 passengers on board near Main St.,"Coastal Guard,Medical",94,0
-I see a oil tanker leaking in the harbor near the Port.,"Coastal Guard,Environmental",100,1
-I see a cyber attack on city water treatment plant near the East Side.,"Cyber,Utilities,Public Works",100,1
-I see a testing connection near the Port.,Utilities,25,1
-"Calling about a car accident, vehicle flipped and smoking near Oak Road.","Fire,Medical,Police",79,0
-"Reporting a car accident, vehicle flipped and smoking near Oak Road.","Fire,Medical,Police",86,0
-Calling about a aggressive pitbull attacking a pedestrian near the East Side.,"Animal Control,Medical,Police",60,0
-I see a child found alone and shivering in the park near Oak Road.,"Social Services,Police",45,1
-Calling about a domestic dispute with loud screaming near the Suburbs.,"Police,Social Services",75,1
-Calling about a suicidal individual on the bridge ledge near the Mall.,"Police,Medical,Social Services",93,0
-I see a illegal dumping of toxic waste in the river near the East Side.,"Environmental,Police",69,0
-I see a boat sinking with 5 passengers on board near Oak Road.,"Coastal Guard,Medical",94,0
-I see a elderly person collapsed with chest pain near Downtown.,Medical,86,0
-Calling about a illegal dumping of toxic waste in the river near Downtown.,"Environmental,Police",74,0
-Calling about a homeless camp needing a welfare check near Main St.,Social Services,40,1
-I see a stabbing incident during a street fight near Oak Road.,"Police,Medical",83,0
-Calling about a wildfire approaching residential area near Oak Road.,"Fire,Police,Environmental",100,1
-"Reporting a car accident, vehicle flipped and smoking near the Port.","Fire,Medical,Police",76,0
-I see a suicidal individual on the bridge ledge near Oak Road.,"Police,Medical,Social Services",84,0
-I see a suicidal individual on the bridge ledge near Main St.,"Police,Medical,Social Services",88,0
-Calling about a child found alone and shivering in the park near the East Side.,"Social Services,Police",19,0
-Reporting a vandalism and graffiti on the school wall near the Mall.,"Police,Public Works",11,0
-Reporting a testing connection near Main St.,Utilities,12,0
-URGENT: vandalism and graffiti on the school wall near the Mall.,"Police,Public Works",9,0
-URGENT: vandalism and graffiti on the school wall near Oak Road.,"Police,Public Works",12,0
-Reporting a street light out at a busy intersection near the East Side.,"Public Works,Utilities",15,0
-Calling about a power lines down on a flooded street near the East Side.,"Utilities,Fire,Public Works",76,0
-There is a someone trying to hack into my bank account near the Mall.,"Cyber,Police",52,0
-"Calling about a car accident, vehicle flipped and smoking near Downtown.","Fire,Medical,Police",78,0
-URGENT: identity theft and fraudulent credit cards near Oak Road.,"Cyber,Police",45,0
-Reporting a someone trying to hack into my bank account near the Mall.,"Cyber,Police",65,1
-I see a identity theft and fraudulent credit cards near the Port.,"Cyber,Police",39,0
-URGENT: identity theft and fraudulent credit cards near the Mall.,"Cyber,Police",60,1
-Reporting a explosion heard in the industrial district near Oak Road.,"Fire,Police,Medical,Utilities",100,1
-There is a stabbing incident during a street fight near the Suburbs.,"Police,Medical",90,0
-Reporting a gas smell in the apartment basement near the Suburbs.,"Fire,Utilities",68,0
-Reporting a child found alone and shivering in the park near the Suburbs.,"Social Services,Police",33,0
-Calling about a identity theft and fraudulent credit cards near the East Side.,"Cyber,Police",60,1
-URGENT: someone trying to hack into my bank account near the Mall.,"Cyber,Police",41,0
-I see a oil tanker leaking in the harbor near the Suburbs.,"Coastal Guard,Environmental",77,0
-I see a testing connection near the Mall.,Utilities,13,0
-URGENT: identity theft and fraudulent credit cards near Main St.,"Cyber,Police",60,1
-Calling about a boat sinking with 5 passengers on board near the Mall.,"Coastal Guard,Medical",100,0
-Reporting a domestic dispute with loud screaming near Main St.,"Police,Social Services",54,0
-I see a boat sinking with 5 passengers on board near Oak Road.,"Coastal Guard,Medical",99,0
-Reporting a wildfire approaching residential area near Main St.,"Fire,Police,Environmental",96,0
-Calling about a vandalism and graffiti on the school wall near Downtown.,"Police,Public Works",17,0
-URGENT: stabbing incident during a street fight near the Suburbs.,"Police,Medical",95,0
-There is a cyber attack on city water treatment plant near the East Side.,"Cyber,Utilities,Public Works",100,1
-Calling about a explosion heard in the industrial district near the Port.,"Fire,Police,Medical,Utilities",100,0
-I see a someone trying to hack into my bank account near Downtown.,"Cyber,Police",65,1
-There is a boat sinking with 5 passengers on board near the East Side.,"Coastal Guard,Medical",100,1
-Calling about a stabbing incident during a street fight near the Suburbs.,"Police,Medical",100,1
-"Calling about a car accident, vehicle flipped and smoking near Downtown.","Fire,Medical,Police",74,0
-I see a aggressive pitbull attacking a pedestrian near the Suburbs.,"Animal Control,Medical,Police",85,1
-URGENT: explosion heard in the industrial district near Main St.,"Fire,Police,Medical,Utilities",100,1
-Calling about a oil tanker leaking in the harbor near Downtown.,"Coastal Guard,Environmental",82,0
-URGENT: elderly person collapsed with chest pain near Oak Road.,Medical,100,1
-URGENT: testing connection near Downtown.,Utilities,25,1
-Reporting a homeless camp needing a welfare check near the Port.,Social Services,13,0
-Reporting a illegal dumping of toxic waste in the river near the Mall.,"Environmental,Police",72,0
-Calling about a active shooter in the shopping mall near the Port.,"Police,Medical",100,1
-There is a cyber attack on city water treatment plant near the Port.,"Cyber,Utilities,Public Works",95,0
-I see a stabbing incident during a street fight near the East Side.,"Police,Medical",95,0
-Calling about a power lines down on a flooded street near the Port.,"Utilities,Fire,Public Works",82,0
-Calling about a broken water main flooding the downtown street near Main St.,"Utilities,Public Works",65,0
-Reporting a homeless camp needing a welfare check near Oak Road.,Social Services,40,1
-URGENT: identity theft and fraudulent credit cards near Oak Road.,"Cyber,Police",34,0
-I see a pothole reported on a quiet residential street near Main St.,Public Works,1,0
-I see a active shooter in the shopping mall near the Port.,"Police,Medical",100,0
-I see a vandalism and graffiti on the school wall near the Suburbs.,"Police,Public Works",14,0
-URGENT: active shooter in the shopping mall near Oak Road.,"Police,Medical",100,0
-I see a pothole reported on a quiet residential street near the Mall.,Public Works,16,0
-URGENT: child found alone and shivering in the park near the Port.,"Social Services,Police",20,0
-I see a identity theft and fraudulent credit cards near Downtown.,"Cyber,Police",48,0
-URGENT: wildfire approaching residential area near the Mall.,"Fire,Police,Environmental",100,1
-Calling about a someone trying to hack into my bank account near Downtown.,"Cyber,Police",53,0
-URGENT: elderly person collapsed with chest pain near the Mall.,Medical,93,0
-Reporting a child found alone and shivering in the park near the Port.,"Social Services,Police",26,0
-URGENT: street light out at a busy intersection near Oak Road.,"Public Works,Utilities",32,1
-I see a gas smell in the apartment basement near Oak Road.,"Fire,Utilities",95,1
-Reporting a homeless camp needing a welfare check near Downtown.,Social Services,26,0
-URGENT: wildfire approaching residential area near the East Side.,"Fire,Police,Environmental",100,0
-I see a oil tanker leaking in the harbor near the Port.,"Coastal Guard,Environmental",77,0
-There is a boat sinking with 5 passengers on board near Downtown.,"Coastal Guard,Medical",100,1
-URGENT: illegal dumping of toxic waste in the river near the Port.,"Environmental,Police",74,0
-URGENT: illegal dumping of toxic waste in the river near the Mall.,"Environmental,Police",74,0
-URGENT: testing connection near the Mall.,Utilities,8,0
-Reporting a vandalism and graffiti on the school wall near Downtown.,"Police,Public Works",12,0
-Calling about a active shooter in the shopping mall near the Suburbs.,"Police,Medical",100,0
-Reporting a homeless camp needing a welfare check near Main St.,Social Services,15,0
-Reporting a homeless camp needing a welfare check near the East Side.,Social Services,40,1
-I see a explosion heard in the industrial district near Main St.,"Fire,Police,Medical,Utilities",100,1
-Reporting a oil tanker leaking in the harbor near Oak Road.,"Coastal Guard,Environmental",75,0
-I see a oil tanker leaking in the harbor near the Suburbs.,"Coastal Guard,Environmental",81,0
-There is a testing connection near the Suburbs.,Utilities,7,0
-There is a explosion heard in the industrial district near the Suburbs.,"Fire,Police,Medical,Utilities",98,0
-Calling about a pothole reported on a quiet residential street near the Port.,Public Works,10,0
-There is a domestic dispute with loud screaming near the Suburbs.,"Police,Social Services",49,0
-Reporting a illegal dumping of toxic waste in the river near the Port.,"Environmental,Police",70,0
-Reporting a child found alone and shivering in the park near Oak Road.,"Social Services,Police",45,1
-There is a street light out at a busy intersection near Oak Road.,"Public Works,Utilities",32,1
-Reporting a testing connection near the Port.,Utilities,25,1
-Calling about a gas smell in the apartment basement near the Port.,"Fire,Utilities",70,0
-URGENT: someone trying to hack into my bank account near the Mall.,"Cyber,Police",40,0
-Calling about a domestic dispute with loud screaming near Oak Road.,"Police,Social Services",53,0
-There is a homeless camp needing a welfare check near the Port.,Social Services,21,0
-There is a domestic dispute with loud screaming near the Suburbs.,"Police,Social Services",54,0
-I see a aggressive pitbull attacking a pedestrian near the Suburbs.,"Animal Control,Medical,Police",85,1
-Reporting a wildfire approaching residential area near the Suburbs.,"Fire,Police,Environmental",95,0
-I see a large warehouse fire with chemical containers near the Port.,"Fire,Environmental,Medical",92,0
-Calling about a oil tanker leaking in the harbor near the Port.,"Coastal Guard,Environmental",87,0
-There is a raccoon trapped in a residential chimney near Downtown.,Animal Control,7,0
-"Calling about a car accident, vehicle flipped and smoking near the Suburbs.","Fire,Medical,Police",100,1
-Calling about a active shooter in the shopping mall near Downtown.,"Police,Medical",100,0
-Reporting a wildfire approaching residential area near the Suburbs.,"Fire,Police,Environmental",94,0
-Reporting a pothole reported on a quiet residential street near Downtown.,Public Works,28,1
-Calling about a child found alone and shivering in the park near Oak Road.,"Social Services,Police",30,0
-Calling about a illegal dumping of toxic waste in the river near the Suburbs.,"Environmental,Police",90,1
-URGENT: pothole reported on a quiet residential street near the Port.,Public Works,28,1
-Reporting a gas smell in the apartment basement near Oak Road.,"Fire,Utilities",95,1
-Reporting a pothole reported on a quiet residential street near the Suburbs.,Public Works,14,0
-Calling about a suicidal individual on the bridge ledge near Downtown.,"Police,Medical,Social Services",92,0
-Calling about a homeless camp needing a welfare check near the Suburbs.,Social Services,23,0
-I see a stabbing incident during a street fight near the East Side.,"Police,Medical",92,0
-I see a stabbing incident during a street fight near the Port.,"Police,Medical",92,0
-I see a vandalism and graffiti on the school wall near the East Side.,"Police,Public Works",30,1
-There is a street light out at a busy intersection near Oak Road.,"Public Works,Utilities",7,0
-Calling about a stabbing incident during a street fight near Main St.,"Police,Medical",81,0
-URGENT: active shooter in the shopping mall near the Port.,"Police,Medical",100,0
-Reporting a someone trying to hack into my bank account near the East Side.,"Cyber,Police",65,1
-URGENT: aggressive pitbull attacking a pedestrian near Downtown.,"Animal Control,Medical,Police",71,0
-Calling about a wildfire approaching residential area near the Port.,"Fire,Police,Environmental",97,0
-I see a aggressive pitbull attacking a pedestrian near the Mall.,"Animal Control,Medical,Police",73,0
-Reporting a street light out at a busy intersection near Downtown.,"Public Works,Utilities",10,0
-URGENT: street light out at a busy intersection near the Suburbs.,"Public Works,Utilities",12,0
-URGENT: testing connection near the Suburbs.,Utilities,25,1
-Reporting a wildfire approaching residential area near the East Side.,"Fire,Police,Environmental",100,1
-I see a domestic dispute with loud screaming near the Mall.,"Police,Social Services",52,0
-URGENT: boat sinking with 5 passengers on board near Main St.,"Coastal Guard,Medical",100,0
-Reporting a large warehouse fire with chemical containers near the East Side.,"Fire,Environmental,Medical",100,1
-URGENT: stabbing incident during a street fight near Oak Road.,"Police,Medical",100,1
-I see a someone trying to hack into my bank account near the East Side.,"Cyber,Police",39,0
-Reporting a power lines down on a flooded street near Main St.,"Utilities,Fire,Public Works",78,0
-There is a homeless camp needing a welfare check near the Suburbs.,Social Services,40,1
-Calling about a vandalism and graffiti on the school wall near the Suburbs.,"Police,Public Works",6,0
-There is a large warehouse fire with chemical containers near Main St.,"Fire,Environmental,Medical",99,0
-There is a suicidal individual on the bridge ledge near the Mall.,"Police,Medical,Social Services",100,1
-Reporting a power lines down on a flooded street near Oak Road.,"Utilities,Fire,Public Works",76,0
-There is a suicidal individual on the bridge ledge near the Suburbs.,"Police,Medical,Social Services",100,1
-I see a aggressive pitbull attacking a pedestrian near Oak Road.,"Animal Control,Medical,Police",85,1
-URGENT: domestic dispute with loud screaming near the Mall.,"Police,Social Services",63,0
-URGENT: testing connection near Main St.,Utilities,6,0
-I see a explosion heard in the industrial district near Downtown.,"Fire,Police,Medical,Utilities",99,0
-Calling about a explosion heard in the industrial district near the Mall.,"Fire,Police,Medical,Utilities",100,0
-Reporting a elderly person collapsed with chest pain near Oak Road.,Medical,92,0
-There is a power lines down on a flooded street near Downtown.,"Utilities,Fire,Public Works",76,0
-Reporting a raccoon trapped in a residential chimney near Oak Road.,Animal Control,17,0
-I see a active shooter in the shopping mall near the Mall.,"Police,Medical",98,0
-There is a elderly person collapsed with chest pain near the Mall.,Medical,100,1
-I see a vandalism and graffiti on the school wall near Oak Road.,"Police,Public Works",8,0
-Reporting a gas smell in the apartment basement near the Mall.,"Fire,Utilities",95,1
-There is a explosion heard in the industrial district near Downtown.,"Fire,Police,Medical,Utilities",98,0
-Reporting a wildfire approaching residential area near the Port.,"Fire,Police,Environmental",85,0
-Reporting a boat sinking with 5 passengers on board near the Mall.,"Coastal Guard,Medical",90,0
-I see a street light out at a busy intersection near the East Side.,"Public Works,Utilities",16,0
-I see a oil tanker leaking in the harbor near Main St.,"Coastal Guard,Environmental",76,0
-I see a wildfire approaching residential area near Main St.,"Fire,Police,Environmental",96,0
-Calling about a stabbing incident during a street fight near Oak Road.,"Police,Medical",96,0
-There is a domestic dispute with loud screaming near the East Side.,"Police,Social Services",75,1
-I see a illegal dumping of toxic waste in the river near Oak Road.,"Environmental,Police",66,0
-URGENT: large warehouse fire with chemical containers near the East Side.,"Fire,Environmental,Medical",100,1
-Calling about a aggressive pitbull attacking a pedestrian near the Port.,"Animal Control,Medical,Police",60,0
-I see a wildfire approaching residential area near the Suburbs.,"Fire,Police,Environmental",89,0
-Calling about a vandalism and graffiti on the school wall near Oak Road.,"Police,Public Works",9,0
-There is a active shooter in the shopping mall near the East Side.,"Police,Medical",97,0
-URGENT: pothole reported on a quiet residential street near the East Side.,Public Works,2,0
-URGENT: elderly person collapsed with chest pain near Downtown.,Medical,82,0
-"URGENT: car accident, vehicle flipped and smoking near the Mall.","Fire,Medical,Police",72,0
-Reporting a street light out at a busy intersection near the Suburbs.,"Public Works,Utilities",4,0
-Reporting a pothole reported on a quiet residential street near the East Side.,Public Works,28,1
-Calling about a wildfire approaching residential area near the Suburbs.,"Fire,Police,Environmental",100,1
-I see a boat sinking with 5 passengers on board near the East Side.,"Coastal Guard,Medical",90,0
-There is a homeless camp needing a welfare check near the East Side.,Social Services,40,1
-I see a illegal dumping of toxic waste in the river near Oak Road.,"Environmental,Police",90,1
-Calling about a explosion heard in the industrial district near the Port.,"Fire,Police,Medical,Utilities",100,0
-I see a stabbing incident during a street fight near the Suburbs.,"Police,Medical",80,0
-Calling about a illegal dumping of toxic waste in the river near the Port.,"Environmental,Police",70,0
-I see a illegal dumping of toxic waste in the river near the Suburbs.,"Environmental,Police",70,0
-URGENT: elderly person collapsed with chest pain near Oak Road.,Medical,85,0
-There is a cyber attack on city water treatment plant near Main St.,"Cyber,Utilities,Public Works",93,0
-There is a domestic dispute with loud screaming near the Suburbs.,"Police,Social Services",75,1
-URGENT: power lines down on a flooded street near Downtown.,"Utilities,Fire,Public Works",95,1
-I see a broken water main flooding the downtown street near Oak Road.,"Utilities,Public Works",68,0
-Calling about a cyber attack on city water treatment plant near Main St.,"Cyber,Utilities,Public Works",89,0
-Reporting a active shooter in the shopping mall near the East Side.,"Police,Medical",100,0
-I see a raccoon trapped in a residential chimney near the Port.,Animal Control,23,0
-Calling about a gas smell in the apartment basement near the Port.,"Fire,Utilities",72,0
-Reporting a identity theft and fraudulent credit cards near the Mall.,"Cyber,Police",33,0
-I see a child found alone and shivering in the park near the Port.,"Social Services,Police",22,0
-Calling about a explosion heard in the industrial district near the Port.,"Fire,Police,Medical,Utilities",95,0
-Calling about a identity theft and fraudulent credit cards near Downtown.,"Cyber,Police",42,0
-URGENT: someone trying to hack into my bank account near the Port.,"Cyber,Police",65,1
-Calling about a cyber attack on city water treatment plant near the Port.,"Cyber,Utilities,Public Works",95,0
-Calling about a broken water main flooding the downtown street near the East Side.,"Utilities,Public Works",80,1
-URGENT: child found alone and shivering in the park near Downtown.,"Social Services,Police",28,0
-There is a gas smell in the apartment basement near Main St.,"Fire,Utilities",95,1
-I see a aggressive pitbull attacking a pedestrian near Downtown.,"Animal Control,Medical,Police",57,0
-Reporting a raccoon trapped in a residential chimney near Downtown.,Animal Control,35,1
-Reporting a power lines down on a flooded street near Oak Road.,"Utilities,Fire,Public Works",95,1
-URGENT: explosion heard in the industrial district near the Port.,"Fire,Police,Medical,Utilities",94,0
-Reporting a child found alone and shivering in the park near the Port.,"Social Services,Police",29,0
-Reporting a active shooter in the shopping mall near the Port.,"Police,Medical",96,0
-URGENT: oil tanker leaking in the harbor near Downtown.,"Coastal Guard,Environmental",78,0
-URGENT: active shooter in the shopping mall near the Suburbs.,"Police,Medical",100,0
-Calling about a homeless camp needing a welfare check near the Suburbs.,Social Services,21,0
-URGENT: elderly person collapsed with chest pain near the Suburbs.,Medical,86,0
-URGENT: oil tanker leaking in the harbor near Main St.,"Coastal Guard,Environmental",84,0
-There is a elderly person collapsed with chest pain near the Mall.,Medical,86,0
-Reporting a raccoon trapped in a residential chimney near Oak Road.,Animal Control,8,0
-Calling about a stabbing incident during a street fight near the East Side.,"Police,Medical",85,0
-Calling about a broken water main flooding the downtown street near the East Side.,"Utilities,Public Works",63,0
-Reporting a wildfire approaching residential area near the Mall.,"Fire,Police,Environmental",86,0
-There is a gas smell in the apartment basement near the Suburbs.,"Fire,Utilities",77,0
-There is a large warehouse fire with chemical containers near the Mall.,"Fire,Environmental,Medical",94,0
-Calling about a power lines down on a flooded street near Downtown.,"Utilities,Fire,Public Works",69,0
-Calling about a oil tanker leaking in the harbor near Oak Road.,"Coastal Guard,Environmental",100,1
-There is a boat sinking with 5 passengers on board near Downtown.,"Coastal Guard,Medical",100,0
-Reporting a illegal dumping of toxic waste in the river near Downtown.,"Environmental,Police",90,1
-I see a vandalism and graffiti on the school wall near the Mall.,"Police,Public Works",10,0
-Calling about a street light out at a busy intersection near the Mall.,"Public Works,Utilities",10,0
-I see a homeless camp needing a welfare check near the Port.,Social Services,15,0
-Reporting a homeless camp needing a welfare check near Oak Road.,Social Services,18,0
-There is a large warehouse fire with chemical containers near the Suburbs.,"Fire,Environmental,Medical",100,1
-Calling about a cyber attack on city water treatment plant near Main St.,"Cyber,Utilities,Public Works",95,0
-Reporting a street light out at a busy intersection near Downtown.,"Public Works,Utilities",18,0
-Calling about a vandalism and graffiti on the school wall near Oak Road.,"Police,Public Works",4,0
-I see a elderly person collapsed with chest pain near the Suburbs.,Medical,93,0
-I see a active shooter in the shopping mall near Downtown.,"Police,Medical",100,1
-URGENT: child found alone and shivering in the park near Main St.,"Social Services,Police",17,0
-Reporting a someone trying to hack into my bank account near the East Side.,"Cyber,Police",51,0
-Reporting a elderly person collapsed with chest pain near the East Side.,Medical,100,1
-I see a street light out at a busy intersection near Main St.,"Public Works,Utilities",6,0
-Calling about a wildfire approaching residential area near the Mall.,"Fire,Police,Environmental",89,0
-"Reporting a car accident, vehicle flipped and smoking near the Mall.","Fire,Medical,Police",88,0
-Reporting a suicidal individual on the bridge ledge near the Port.,"Police,Medical,Social Services",83,0
-Calling about a aggressive pitbull attacking a pedestrian near Oak Road.,"Animal Control,Medical,Police",85,1
-Calling about a active shooter in the shopping mall near the Suburbs.,"Police,Medical",100,1
-URGENT: stabbing incident during a street fight near the Suburbs.,"Police,Medical",100,1
-Calling about a raccoon trapped in a residential chimney near the Port.,Animal Control,15,0
-URGENT: testing connection near the Port.,Utilities,13,0
-There is a oil tanker leaking in the harbor near Oak Road.,"Coastal Guard,Environmental",100,1
-Reporting a child found alone and shivering in the park near the Port.,"Social Services,Police",45,1
-URGENT: homeless camp needing a welfare check near the Mall.,Social Services,40,1
-Reporting a boat sinking with 5 passengers on board near the Suburbs.,"Coastal Guard,Medical",87,0
-I see a aggressive pitbull attacking a pedestrian near the Mall.,"Animal Control,Medical,Police",60,0
-"I see a car accident, vehicle flipped and smoking near Oak Road.","Fire,Medical,Police",72,0
-Reporting a cyber attack on city water treatment plant near the Mall.,"Cyber,Utilities,Public Works",86,0
-I see a power lines down on a flooded street near the Suburbs.,"Utilities,Fire,Public Works",95,1
-Reporting a aggressive pitbull attacking a pedestrian near the Port.,"Animal Control,Medical,Police",85,1
-Calling about a wildfire approaching residential area near the Port.,"Fire,Police,Environmental",97,0
-Calling about a power lines down on a flooded street near Main St.,"Utilities,Fire,Public Works",74,0
-URGENT: domestic dispute with loud screaming near the Suburbs.,"Police,Social Services",60,0
-Calling about a oil tanker leaking in the harbor near Downtown.,"Coastal Guard,Environmental",84,0
-Reporting a oil tanker leaking in the harbor near Main St.,"Coastal Guard,Environmental",90,0
-Calling about a large warehouse fire with chemical containers near the Port.,"Fire,Environmental,Medical",100,1
-Reporting a broken water main flooding the downtown street near Oak Road.,"Utilities,Public Works",56,0
-URGENT: explosion heard in the industrial district near the Port.,"Fire,Police,Medical,Utilities",100,0
-"I see a car accident, vehicle flipped and smoking near the Suburbs.","Fire,Medical,Police",77,0
-There is a child found alone and shivering in the park near Main St.,"Social Services,Police",22,0
-Reporting a identity theft and fraudulent credit cards near the East Side.,"Cyber,Police",60,1
-URGENT: illegal dumping of toxic waste in the river near Downtown.,"Environmental,Police",90,1
-URGENT: oil tanker leaking in the harbor near the Port.,"Coastal Guard,Environmental",83,0
-Reporting a testing connection near the Port.,Utilities,25,1
-URGENT: boat sinking with 5 passengers on board near the Mall.,"Coastal Guard,Medical",92,0
-Calling about a raccoon trapped in a residential chimney near the Port.,Animal Control,35,1
-Calling about a elderly person collapsed with chest pain near Downtown.,Medical,92,0
-There is a vandalism and graffiti on the school wall near the East Side.,"Police,Public Works",7,0
-Calling about a aggressive pitbull attacking a pedestrian near the Suburbs.,"Animal Control,Medical,Police",60,0
-There is a someone trying to hack into my bank account near the Port.,"Cyber,Police",46,0
-Reporting a child found alone and shivering in the park near the Port.,"Social Services,Police",28,0
-URGENT: cyber attack on city water treatment plant near Main St.,"Cyber,Utilities,Public Works",83,0
-URGENT: suicidal individual on the bridge ledge near the Suburbs.,"Police,Medical,Social Services",85,0
-I see a gas smell in the apartment basement near the East Side.,"Fire,Utilities",81,0
-URGENT: wildfire approaching residential area near Downtown.,"Fire,Police,Environmental",87,0
-I see a suicidal individual on the bridge ledge near the East Side.,"Police,Medical,Social Services",100,1
-URGENT: gas smell in the apartment basement near Main St.,"Fire,Utilities",95,1
-Reporting a explosion heard in the industrial district near Downtown.,"Fire,Police,Medical,Utilities",97,0
-URGENT: cyber attack on city water treatment plant near the Suburbs.,"Cyber,Utilities,Public Works",98,0
-Reporting a someone trying to hack into my bank account near Downtown.,"Cyber,Police",43,0
-There is a oil tanker leaking in the harbor near the East Side.,"Coastal Guard,Environmental",75,0
-Reporting a broken water main flooding the downtown street near Oak Road.,"Utilities,Public Works",63,0
-There is a aggressive pitbull attacking a pedestrian near Downtown.,"Animal Control,Medical,Police",65,0
-Reporting a cyber attack on city water treatment plant near Downtown.,"Cyber,Utilities,Public Works",83,0
-Calling about a pothole reported on a quiet residential street near the East Side.,Public Works,7,0
-There is a child found alone and shivering in the park near the Port.,"Social Services,Police",24,0
-I see a raccoon trapped in a residential chimney near Oak Road.,Animal Control,17,0
-Reporting a testing connection near Main St.,Utilities,11,0
-There is a someone trying to hack into my bank account near the Mall.,"Cyber,Police",43,0
-There is a elderly person collapsed with chest pain near the Mall.,Medical,89,0
-Reporting a aggressive pitbull attacking a pedestrian near the Port.,"Animal Control,Medical,Police",62,0
-Calling about a oil tanker leaking in the harbor near Downtown.,"Coastal Guard,Environmental",100,1
-Calling about a large warehouse fire with chemical containers near the Port.,"Fire,Environmental,Medical",89,0
-There is a child found alone and shivering in the park near Downtown.,"Social Services,Police",21,0
-There is a child found alone and shivering in the park near the Mall.,"Social Services,Police",45,1
-There is a broken water main flooding the downtown street near Main St.,"Utilities,Public Works",80,1
-Reporting a explosion heard in the industrial district near the Port.,"Fire,Police,Medical,Utilities",98,0
-Calling about a pothole reported on a quiet residential street near the Suburbs.,Public Works,15,0
-Calling about a active shooter in the shopping mall near Main St.,"Police,Medical",100,1
-URGENT: broken water main flooding the downtown street near Downtown.,"Utilities,Public Works",64,0
-Calling about a illegal dumping of toxic waste in the river near Main St.,"Environmental,Police",90,1
-There is a elderly person collapsed with chest pain near the Port.,Medical,100,1
-Reporting a street light out at a busy intersection near the Suburbs.,"Public Works,Utilities",20,0
-Calling about a identity theft and fraudulent credit cards near the East Side.,"Cyber,Police",41,0
-I see a wildfire approaching residential area near the Suburbs.,"Fire,Police,Environmental",100,1
-Reporting a identity theft and fraudulent credit cards near the Suburbs.,"Cyber,Police",46,0
-There is a domestic dispute with loud screaming near Downtown.,"Police,Social Services",75,1
-I see a pothole reported on a quiet residential street near the Suburbs.,Public Works,9,0
-There is a cyber attack on city water treatment plant near Oak Road.,"Cyber,Utilities,Public Works",86,0
-I see a pothole reported on a quiet residential street near Downtown.,Public Works,5,0
-Reporting a oil tanker leaking in the harbor near the East Side.,"Coastal Guard,Environmental",82,0
-There is a pothole reported on a quiet residential street near Main St.,Public Works,28,1
-I see a broken water main flooding the downtown street near the Mall.,"Utilities,Public Works",64,0
-There is a identity theft and fraudulent credit cards near the Suburbs.,"Cyber,Police",39,0
-URGENT: homeless camp needing a welfare check near Downtown.,Social Services,15,0
-URGENT: boat sinking with 5 passengers on board near the East Side.,"Coastal Guard,Medical",96,0
-There is a explosion heard in the industrial district near the Mall.,"Fire,Police,Medical,Utilities",100,0
-I see a domestic dispute with loud screaming near Main St.,"Police,Social Services",75,1
-URGENT: aggressive pitbull attacking a pedestrian near the Mall.,"Animal Control,Medical,Police",62,0
-Calling about a cyber attack on city water treatment plant near Oak Road.,"Cyber,Utilities,Public Works",100,1
-URGENT: testing connection near the Mall.,Utilities,1,0
-URGENT: raccoon trapped in a residential chimney near the East Side.,Animal Control,35,1
-Calling about a vandalism and graffiti on the school wall near the Mall.,"Police,Public Works",9,0
-I see a power lines down on a flooded street near the Port.,"Utilities,Fire,Public Works",69,0
-URGENT: homeless camp needing a welfare check near the Port.,Social Services,23,0
-URGENT: power lines down on a flooded street near Downtown.,"Utilities,Fire,Public Works",67,0
-Reporting a vandalism and graffiti on the school wall near Main St.,"Police,Public Works",30,1
-URGENT: aggressive pitbull attacking a pedestrian near the Mall.,"Animal Control,Medical,Police",57,0
-Reporting a raccoon trapped in a residential chimney near Main St.,Animal Control,35,1
-URGENT: homeless camp needing a welfare check near Oak Road.,Social Services,19,0
-URGENT: suicidal individual on the bridge ledge near the Port.,"Police,Medical,Social Services",94,0
-URGENT: identity theft and fraudulent credit cards near the East Side.,"Cyber,Police",44,0
-I see a someone trying to hack into my bank account near the Port.,"Cyber,Police",51,0
-There is a aggressive pitbull attacking a pedestrian near Downtown.,"Animal Control,Medical,Police",59,0
-Calling about a gas smell in the apartment basement near Main St.,"Fire,Utilities",82,0
-There is a suicidal individual on the bridge ledge near Main St.,"Police,Medical,Social Services",100,1
-Calling about a boat sinking with 5 passengers on board near Oak Road.,"Coastal Guard,Medical",100,1
-URGENT: vandalism and graffiti on the school wall near the Suburbs.,"Police,Public Works",7,0
-Reporting a testing connection near Downtown.,Utilities,25,1
-I see a identity theft and fraudulent credit cards near the East Side.,"Cyber,Police",39,0
-Calling about a testing connection near the Port.,Utilities,6,0
-URGENT: boat sinking with 5 passengers on board near the Port.,"Coastal Guard,Medical",100,0
-URGENT: gas smell in the apartment basement near Downtown.,"Fire,Utilities",95,1
+URGENT: suicidal individual on the bridge ledge near the Mall.,"Police,Medical,Social Services",85,0
 Calling about a pothole reported on a quiet residential street near Main St.,Public Works,28,1
-I see a domestic dispute with loud screaming near the Mall.,"Police,Social Services",48,0
-Reporting a cyber attack on city water treatment plant near the East Side.,"Cyber,Utilities,Public Works",100,1
-There is a oil tanker leaking in the harbor near the Port.,"Coastal Guard,Environmental",100,1
-There is a broken water main flooding the downtown street near Main St.,"Utilities,Public Works",58,0
-URGENT: aggressive pitbull attacking a pedestrian near Oak Road.,"Animal Control,Medical,Police",70,0
-I see a vandalism and graffiti on the school wall near the Suburbs.,"Police,Public Works",30,1
-There is a wildfire approaching residential area near the Mall.,"Fire,Police,Environmental",100,1
-I see a homeless camp needing a welfare check near Oak Road.,Social Services,40,1
-URGENT: vandalism and graffiti on the school wall near Oak Road.,"Police,Public Works",17,0
-"There is a car accident, vehicle flipped and smoking near the Mall.","Fire,Medical,Police",88,0
-Calling about a large warehouse fire with chemical containers near Oak Road.,"Fire,Environmental,Medical",100,1
-Calling about a pothole reported on a quiet residential street near the Port.,Public Works,28,1
+There is a active shooter in the shopping mall near the Mall.,"Police,Medical",100,0
+URGENT: gas smell in the apartment basement near Oak Road.,"Fire,Utilities",95,1
+Reporting a aggressive pitbull attacking a pedestrian near Oak Road.,"Animal Control,Medical,Police",85,1
+Reporting a oil tanker leaking in the harbor near Downtown.,"Coastal Guard,Environmental",87,0
+Calling about a raccoon trapped in a residential chimney near the Mall.,Animal Control,12,0
+There is a stabbing incident during a street fight near the Mall.,"Police,Medical",100,1
+Calling about a gas smell in the apartment basement near the Port.,"Fire,Utilities",95,1
+I see a vandalism and graffiti on the school wall near Oak Road.,"Police,Public Works",18,0
+URGENT: broken water main flooding the downtown street near the Port.,"Utilities,Public Works",80,1
+Calling about a aggressive pitbull attacking a pedestrian near Main St.,"Animal Control,Medical,Police",65,0
+Calling about a explosion heard in the industrial district near Oak Road.,"Fire,Police,Medical,Utilities",99,0
+URGENT: street light out at a busy intersection near the East Side.,"Public Works,Utilities",32,1
+There is a active shooter in the shopping mall near the Port.,"Police,Medical",100,0
+There is a identity theft and fraudulent credit cards near the Suburbs.,"Cyber,Police",44,0
+Reporting a street light out at a busy intersection near the Port.,"Public Works,Utilities",20,0
+URGENT: raccoon trapped in a residential chimney near Oak Road.,Animal Control,8,0
+I see a power lines down on a flooded street near the East Side.,"Utilities,Fire,Public Works",83,0
+I see a illegal dumping of toxic waste in the river near Oak Road.,"Environmental,Police",62,0
+I see a cyber attack on city water treatment plant near Main St.,"Cyber,Utilities,Public Works",98,0
+Reporting a gas smell in the apartment basement near the Suburbs.,"Fire,Utilities",95,1
+URGENT: raccoon trapped in a residential chimney near Downtown.,Animal Control,16,0
+Reporting a boat sinking with 5 passengers on board near Main St.,"Coastal Guard,Medical",89,0
+There is a someone trying to hack into my bank account near the Mall.,"Cyber,Police",38,0
+URGENT: boat sinking with 5 passengers on board near Downtown.,"Coastal Guard,Medical",88,0
+Calling about a testing connection near the Mall.,Utilities,3,0
+URGENT: suicidal individual on the bridge ledge near the Mall.,"Police,Medical,Social Services",100,1
+I see a boat sinking with 5 passengers on board near Oak Road.,"Coastal Guard,Medical",95,0
+I see a power lines down on a flooded street near Main St.,"Utilities,Fire,Public Works",67,0
+Reporting a vandalism and graffiti on the school wall near Downtown.,"Police,Public Works",13,0
+URGENT: suicidal individual on the bridge ledge near the Mall.,"Police,Medical,Social Services",91,0
+Calling about a illegal dumping of toxic waste in the river near the Suburbs.,"Environmental,Police",66,0
+Calling about a wildfire approaching residential area near Downtown.,"Fire,Police,Environmental",90,0
+"Reporting a car accident, vehicle flipped and smoking near the Suburbs.","Fire,Medical,Police",100,1
+Calling about a street light out at a busy intersection near the Suburbs.,"Public Works,Utilities",5,0
+URGENT: oil tanker leaking in the harbor near Downtown.,"Coastal Guard,Environmental",100,1
+Calling about a active shooter in the shopping mall near the Mall.,"Police,Medical",100,0
+Reporting a stabbing incident during a street fight near Downtown.,"Police,Medical",84,0
+Calling about a power lines down on a flooded street near Main St.,"Utilities,Fire,Public Works",95,1
+Calling about a large warehouse fire with chemical containers near Downtown.,"Fire,Environmental,Medical",95,0
+There is a identity theft and fraudulent credit cards near the East Side.,"Cyber,Police",41,0
+I see a elderly person collapsed with chest pain near the Mall.,Medical,81,0
+Calling about a cyber attack on city water treatment plant near the Suburbs.,"Cyber,Utilities,Public Works",96,0
+URGENT: power lines down on a flooded street near the East Side.,"Utilities,Fire,Public Works",67,0
+There is a large warehouse fire with chemical containers near the East Side.,"Fire,Environmental,Medical",88,0
+Calling about a boat sinking with 5 passengers on board near the Suburbs.,"Coastal Guard,Medical",100,0
+Reporting a power lines down on a flooded street near Main St.,"Utilities,Fire,Public Works",95,1
+Reporting a homeless camp needing a welfare check near Main St.,Social Services,22,0
+There is a homeless camp needing a welfare check near Oak Road.,Social Services,40,1
+There is a broken water main flooding the downtown street near the Port.,"Utilities,Public Works",65,0
+I see a testing connection near Downtown.,Utilities,7,0
+Reporting a gas smell in the apartment basement near the East Side.,"Fire,Utilities",72,0
+I see a someone trying to hack into my bank account near Oak Road.,"Cyber,Police",49,0
+URGENT: suicidal individual on the bridge ledge near Oak Road.,"Police,Medical,Social Services",100,1
+URGENT: oil tanker leaking in the harbor near the Port.,"Coastal Guard,Environmental",84,0
+There is a aggressive pitbull attacking a pedestrian near Downtown.,"Animal Control,Medical,Police",57,0
+URGENT: illegal dumping of toxic waste in the river near Oak Road.,"Environmental,Police",90,1
+Calling about a raccoon trapped in a residential chimney near the Port.,Animal Control,16,0
+I see a vandalism and graffiti on the school wall near Main St.,"Police,Public Works",30,1
+Reporting a suicidal individual on the bridge ledge near the Suburbs.,"Police,Medical,Social Services",91,0
+URGENT: oil tanker leaking in the harbor near the Mall.,"Coastal Guard,Environmental",83,0
+Calling about a raccoon trapped in a residential chimney near the Mall.,Animal Control,10,0
+URGENT: power lines down on a flooded street near the Suburbs.,"Utilities,Fire,Public Works",78,0
+Reporting a someone trying to hack into my bank account near Oak Road.,"Cyber,Police",48,0
+Reporting a broken water main flooding the downtown street near Main St.,"Utilities,Public Works",67,0
+URGENT: vandalism and graffiti on the school wall near Downtown.,"Police,Public Works",30,1
+There is a homeless camp needing a welfare check near the Mall.,Social Services,40,1
+URGENT: stabbing incident during a street fight near Downtown.,"Police,Medical",100,1
+URGENT: testing connection near the East Side.,Utilities,1,0
+I see a cyber attack on city water treatment plant near the East Side.,"Cyber,Utilities,Public Works",86,0
+I see a explosion heard in the industrial district near the Port.,"Fire,Police,Medical,Utilities",96,0
+I see a large warehouse fire with chemical containers near the East Side.,"Fire,Environmental,Medical",87,0
+I see a boat sinking with 5 passengers on board near Oak Road.,"Coastal Guard,Medical",96,0
+Calling about a boat sinking with 5 passengers on board near Oak Road.,"Coastal Guard,Medical",100,1
+I see a aggressive pitbull attacking a pedestrian near the East Side.,"Animal Control,Medical,Police",65,0
+Reporting a power lines down on a flooded street near the East Side.,"Utilities,Fire,Public Works",95,1
+There is a elderly person collapsed with chest pain near the Suburbs.,Medical,100,1
+Calling about a elderly person collapsed with chest pain near the Port.,Medical,92,0
+There is a elderly person collapsed with chest pain near the Mall.,Medical,100,1
+I see a stabbing incident during a street fight near the Mall.,"Police,Medical",92,0
+There is a someone trying to hack into my bank account near the East Side.,"Cyber,Police",48,0
+URGENT: identity theft and fraudulent credit cards near the Port.,"Cyber,Police",43,0
+Calling about a aggressive pitbull attacking a pedestrian near the East Side.,"Animal Control,Medical,Police",72,0
+Calling about a power lines down on a flooded street near the East Side.,"Utilities,Fire,Public Works",95,1
+I see a identity theft and fraudulent credit cards near the East Side.,"Cyber,Police",39,0
+I see a oil tanker leaking in the harbor near Oak Road.,"Coastal Guard,Environmental",100,1
+There is a explosion heard in the industrial district near the Suburbs.,"Fire,Police,Medical,Utilities",94,0
+URGENT: broken water main flooding the downtown street near Oak Road.,"Utilities,Public Works",54,0
+Reporting a testing connection near the Port.,Utilities,6,0
+I see a illegal dumping of toxic waste in the river near the Mall.,"Environmental,Police",75,0
+Reporting a raccoon trapped in a residential chimney near the Suburbs.,Animal Control,9,0
+I see a wildfire approaching residential area near Oak Road.,"Fire,Police,Environmental",93,0
+URGENT: illegal dumping of toxic waste in the river near the Suburbs.,"Environmental,Police",66,0
+I see a street light out at a busy intersection near the Mall.,"Public Works,Utilities",5,0
+Reporting a active shooter in the shopping mall near the Mall.,"Police,Medical",100,1
+"Reporting a car accident, vehicle flipped and smoking near Main St.","Fire,Medical,Police",100,1
+Calling about a illegal dumping of toxic waste in the river near the East Side.,"Environmental,Police",70,0
+Calling about a aggressive pitbull attacking a pedestrian near Main St.,"Animal Control,Medical,Police",85,1
+Reporting a large warehouse fire with chemical containers near Main St.,"Fire,Environmental,Medical",95,0
+I see a aggressive pitbull attacking a pedestrian near the Mall.,"Animal Control,Medical,Police",85,1
+Reporting a elderly person collapsed with chest pain near the Suburbs.,Medical,84,0
+Reporting a wildfire approaching residential area near the East Side.,"Fire,Police,Environmental",84,0
+URGENT: someone trying to hack into my bank account near Oak Road.,"Cyber,Police",53,0
+URGENT: homeless camp needing a welfare check near the East Side.,Social Services,15,0
+URGENT: broken water main flooding the downtown street near Downtown.,"Utilities,Public Works",56,0
+Reporting a stabbing incident during a street fight near Main St.,"Police,Medical",84,0
+Reporting a stabbing incident during a street fight near the Suburbs.,"Police,Medical",91,0
+There is a homeless camp needing a welfare check near the Suburbs.,Social Services,23,0
+I see a someone trying to hack into my bank account near the Suburbs.,"Cyber,Police",47,0
+Reporting a identity theft and fraudulent credit cards near the East Side.,"Cyber,Police",48,0
+I see a gas smell in the apartment basement near the Port.,"Fire,Utilities",81,0
+"I see a car accident, vehicle flipped and smoking near the Suburbs.","Fire,Medical,Police",83,0
+Reporting a pothole reported on a quiet residential street near the Suburbs.,Public Works,28,1
+There is a boat sinking with 5 passengers on board near Downtown.,"Coastal Guard,Medical",89,0
 Reporting a broken water main flooding the downtown street near the Mall.,"Utilities,Public Works",80,1
-URGENT: aggressive pitbull attacking a pedestrian near Main St.,"Animal Control,Medical,Police",69,0
-Reporting a oil tanker leaking in the harbor near the Mall.,"Coastal Guard,Environmental",86,0
+I see a cyber attack on city water treatment plant near Oak Road.,"Cyber,Utilities,Public Works",97,0
+URGENT: aggressive pitbull attacking a pedestrian near Downtown.,"Animal Control,Medical,Police",64,0
+Calling about a suicidal individual on the bridge ledge near Oak Road.,"Police,Medical,Social Services",85,0
+URGENT: explosion heard in the industrial district near Downtown.,"Fire,Police,Medical,Utilities",100,0
+URGENT: oil tanker leaking in the harbor near the Mall.,"Coastal Guard,Environmental",77,0
+Calling about a street light out at a busy intersection near the Mall.,"Public Works,Utilities",19,0
+I see a someone trying to hack into my bank account near Main St.,"Cyber,Police",65,1
+There is a vandalism and graffiti on the school wall near the Suburbs.,"Police,Public Works",8,0
+I see a street light out at a busy intersection near Downtown.,"Public Works,Utilities",6,0
+Reporting a pothole reported on a quiet residential street near the Mall.,Public Works,9,0
+URGENT: domestic dispute with loud screaming near Main St.,"Police,Social Services",75,1
+I see a homeless camp needing a welfare check near the Mall.,Social Services,18,0
+"Calling about a car accident, vehicle flipped and smoking near Oak Road.","Fire,Medical,Police",83,0
+Calling about a identity theft and fraudulent credit cards near Main St.,"Cyber,Police",44,0
+I see a child found alone and shivering in the park near the Port.,"Social Services,Police",17,0
+Calling about a homeless camp needing a welfare check near the Suburbs.,Social Services,12,0
+I see a power lines down on a flooded street near the Mall.,"Utilities,Fire,Public Works",70,0
+There is a cyber attack on city water treatment plant near Oak Road.,"Cyber,Utilities,Public Works",95,0
+I see a cyber attack on city water treatment plant near the Mall.,"Cyber,Utilities,Public Works",91,0
+There is a homeless camp needing a welfare check near the East Side.,Social Services,40,1
+I see a identity theft and fraudulent credit cards near the Port.,"Cyber,Police",35,0
+Calling about a street light out at a busy intersection near Downtown.,"Public Works,Utilities",32,1
+Calling about a power lines down on a flooded street near Main St.,"Utilities,Fire,Public Works",95,1
+Reporting a vandalism and graffiti on the school wall near Main St.,"Police,Public Works",3,0
+Calling about a domestic dispute with loud screaming near the East Side.,"Police,Social Services",75,1
+There is a testing connection near the Mall.,Utilities,5,0
+"I see a car accident, vehicle flipped and smoking near the Mall.","Fire,Medical,Police",100,1
+I see a testing connection near the Suburbs.,Utilities,4,0
+Calling about a gas smell in the apartment basement near the East Side.,"Fire,Utilities",77,0
+URGENT: street light out at a busy intersection near Downtown.,"Public Works,Utilities",6,0
+Calling about a pothole reported on a quiet residential street near the East Side.,Public Works,28,1
+URGENT: identity theft and fraudulent credit cards near Main St.,"Cyber,Police",48,0
+Calling about a vandalism and graffiti on the school wall near Oak Road.,"Police,Public Works",30,1
+There is a power lines down on a flooded street near the Suburbs.,"Utilities,Fire,Public Works",70,0
+I see a power lines down on a flooded street near the East Side.,"Utilities,Fire,Public Works",69,0
+URGENT: illegal dumping of toxic waste in the river near Oak Road.,"Environmental,Police",63,0
+I see a domestic dispute with loud screaming near the East Side.,"Police,Social Services",75,1
+"Reporting a car accident, vehicle flipped and smoking near Oak Road.","Fire,Medical,Police",76,0
+Reporting a elderly person collapsed with chest pain near Oak Road.,Medical,100,1
+"There is a car accident, vehicle flipped and smoking near the East Side.","Fire,Medical,Police",82,0
+I see a power lines down on a flooded street near the Port.,"Utilities,Fire,Public Works",95,1
+There is a suicidal individual on the bridge ledge near the East Side.,"Police,Medical,Social Services",88,0
+Reporting a child found alone and shivering in the park near Oak Road.,"Social Services,Police",27,0
+I see a identity theft and fraudulent credit cards near the Port.,"Cyber,Police",60,1
+"Reporting a car accident, vehicle flipped and smoking near Main St.","Fire,Medical,Police",78,0
+Reporting a cyber attack on city water treatment plant near the Mall.,"Cyber,Utilities,Public Works",94,0
+Reporting a suicidal individual on the bridge ledge near Main St.,"Police,Medical,Social Services",100,1
+Calling about a identity theft and fraudulent credit cards near the East Side.,"Cyber,Police",40,0
+I see a testing connection near Oak Road.,Utilities,1,0
+There is a explosion heard in the industrial district near the Mall.,"Fire,Police,Medical,Utilities",100,0
+There is a identity theft and fraudulent credit cards near Main St.,"Cyber,Police",39,0
+"Calling about a car accident, vehicle flipped and smoking near the Mall.","Fire,Medical,Police",77,0
+Calling about a boat sinking with 5 passengers on board near Oak Road.,"Coastal Guard,Medical",100,1
+Calling about a aggressive pitbull attacking a pedestrian near Main St.,"Animal Control,Medical,Police",85,1
+Calling about a someone trying to hack into my bank account near the Port.,"Cyber,Police",49,0
+I see a raccoon trapped in a residential chimney near the Mall.,Animal Control,23,0
+Calling about a testing connection near Oak Road.,Utilities,1,0
+There is a domestic dispute with loud screaming near Oak Road.,"Police,Social Services",54,0
 URGENT: aggressive pitbull attacking a pedestrian near the Suburbs.,"Animal Control,Medical,Police",65,0
-Calling about a identity theft and fraudulent credit cards near the Port.,"Cyber,Police",60,1
-Reporting a stabbing incident during a street fight near Main St.,"Police,Medical",82,0
-Reporting a testing connection near Downtown.,Utilities,25,1
-URGENT: broken water main flooding the downtown street near the East Side.,"Utilities,Public Works",64,0
-"I see a car accident, vehicle flipped and smoking near the Suburbs.","Fire,Medical,Police",73,0
-There is a street light out at a busy intersection near Downtown.,"Public Works,Utilities",15,0
-URGENT: suicidal individual on the bridge ledge near Oak Road.,"Police,Medical,Social Services",83,0
-Reporting a raccoon trapped in a residential chimney near Oak Road.,Animal Control,35,1
-Reporting a vandalism and graffiti on the school wall near Oak Road.,"Police,Public Works",30,1
-There is a gas smell in the apartment basement near the Suburbs.,"Fire,Utilities",69,0
-URGENT: stabbing incident during a street fight near Oak Road.,"Police,Medical",100,1
-Calling about a pothole reported on a quiet residential street near Main St.,Public Works,10,0
-I see a child found alone and shivering in the park near the Mall.,"Social Services,Police",45,1
-Calling about a street light out at a busy intersection near Oak Road.,"Public Works,Utilities",6,0
-Reporting a street light out at a busy intersection near Main St.,"Public Works,Utilities",14,0
-There is a boat sinking with 5 passengers on board near the Port.,"Coastal Guard,Medical",98,0
-URGENT: large warehouse fire with chemical containers near the Port.,"Fire,Environmental,Medical",96,0
-I see a someone trying to hack into my bank account near Oak Road.,"Cyber,Police",65,1
-"I see a car accident, vehicle flipped and smoking near Main St.","Fire,Medical,Police",86,0
-Calling about a broken water main flooding the downtown street near Main St.,"Utilities,Public Works",56,0
-"I see a car accident, vehicle flipped and smoking near the Port.","Fire,Medical,Police",87,0
-Calling about a street light out at a busy intersection near the Suburbs.,"Public Works,Utilities",17,0
-"Calling about a car accident, vehicle flipped and smoking near the Mall.","Fire,Medical,Police",85,0
-URGENT: raccoon trapped in a residential chimney near the East Side.,Animal Control,11,0
-I see a oil tanker leaking in the harbor near the Port.,"Coastal Guard,Environmental",86,0
-URGENT: active shooter in the shopping mall near the Suburbs.,"Police,Medical",96,0
-Reporting a vandalism and graffiti on the school wall near Oak Road.,"Police,Public Works",30,1
-I see a stabbing incident during a street fight near Main St.,"Police,Medical",100,1
-Calling about a someone trying to hack into my bank account near the East Side.,"Cyber,Police",51,0
-There is a elderly person collapsed with chest pain near the East Side.,Medical,81,0
-I see a pothole reported on a quiet residential street near the East Side.,Public Works,16,0
-I see a power lines down on a flooded street near Main St.,"Utilities,Fire,Public Works",73,0
-I see a vandalism and graffiti on the school wall near Main St.,"Police,Public Works",8,0
-There is a cyber attack on city water treatment plant near the Port.,"Cyber,Utilities,Public Works",95,0
-Calling about a suicidal individual on the bridge ledge near the East Side.,"Police,Medical,Social Services",95,0
-There is a pothole reported on a quiet residential street near Downtown.,Public Works,15,0
-Calling about a active shooter in the shopping mall near Main St.,"Police,Medical",97,0
-Calling about a aggressive pitbull attacking a pedestrian near the East Side.,"Animal Control,Medical,Police",68,0
-Calling about a cyber attack on city water treatment plant near Downtown.,"Cyber,Utilities,Public Works",94,0
-URGENT: large warehouse fire with chemical containers near Downtown.,"Fire,Environmental,Medical",100,0
-Calling about a street light out at a busy intersection near the Mall.,"Public Works,Utilities",18,0
-Reporting a pothole reported on a quiet residential street near Downtown.,Public Works,1,0
-I see a oil tanker leaking in the harbor near the East Side.,"Coastal Guard,Environmental",90,0
-There is a elderly person collapsed with chest pain near the Mall.,Medical,90,0
-URGENT: cyber attack on city water treatment plant near the Suburbs.,"Cyber,Utilities,Public Works",95,0
-URGENT: gas smell in the apartment basement near Oak Road.,"Fire,Utilities",67,0
-I see a cyber attack on city water treatment plant near the Suburbs.,"Cyber,Utilities,Public Works",87,0
-I see a broken water main flooding the downtown street near the East Side.,"Utilities,Public Works",63,0
-There is a wildfire approaching residential area near Oak Road.,"Fire,Police,Environmental",99,0
-Reporting a gas smell in the apartment basement near Oak Road.,"Fire,Utilities",79,0
-I see a wildfire approaching residential area near the Mall.,"Fire,Police,Environmental",100,1
-Calling about a active shooter in the shopping mall near the Port.,"Police,Medical",100,1
-URGENT: boat sinking with 5 passengers on board near the Suburbs.,"Coastal Guard,Medical",90,0
-Reporting a vandalism and graffiti on the school wall near the East Side.,"Police,Public Works",30,1
-There is a aggressive pitbull attacking a pedestrian near Main St.,"Animal Control,Medical,Police",58,0
-Reporting a raccoon trapped in a residential chimney near the East Side.,Animal Control,13,0
-Calling about a cyber attack on city water treatment plant near the East Side.,"Cyber,Utilities,Public Works",82,0
-Reporting a identity theft and fraudulent credit cards near Downtown.,"Cyber,Police",60,1
-Calling about a active shooter in the shopping mall near the East Side.,"Police,Medical",99,0
-Calling about a illegal dumping of toxic waste in the river near Oak Road.,"Environmental,Police",67,0
-Reporting a broken water main flooding the downtown street near the Port.,"Utilities,Public Works",80,1
-There is a active shooter in the shopping mall near the Mall.,"Police,Medical",92,0
-There is a stabbing incident during a street fight near Downtown.,"Police,Medical",85,0
-Calling about a vandalism and graffiti on the school wall near the Mall.,"Police,Public Works",6,0
-URGENT: stabbing incident during a street fight near the Port.,"Police,Medical",80,0
-I see a vandalism and graffiti on the school wall near the Mall.,"Police,Public Works",3,0
-There is a wildfire approaching residential area near Downtown.,"Fire,Police,Environmental",100,1
-Calling about a suicidal individual on the bridge ledge near Main St.,"Police,Medical,Social Services",100,1
-URGENT: identity theft and fraudulent credit cards near the Port.,"Cyber,Police",47,0
-"Calling about a car accident, vehicle flipped and smoking near the Port.","Fire,Medical,Police",80,0
-I see a testing connection near the Port.,Utilities,1,0
-Calling about a someone trying to hack into my bank account near the Mall.,"Cyber,Police",44,0
-Reporting a broken water main flooding the downtown street near the Suburbs.,"Utilities,Public Works",63,0
-Calling about a vandalism and graffiti on the school wall near the Suburbs.,"Police,Public Works",18,0
-Calling about a illegal dumping of toxic waste in the river near Main St.,"Environmental,Police",78,0
-Calling about a boat sinking with 5 passengers on board near the Mall.,"Coastal Guard,Medical",90,0
-Calling about a illegal dumping of toxic waste in the river near Oak Road.,"Environmental,Police",66,0
-Reporting a raccoon trapped in a residential chimney near the Port.,Animal Control,20,0
-Reporting a broken water main flooding the downtown street near the East Side.,"Utilities,Public Works",80,1
-There is a child found alone and shivering in the park near the East Side.,"Social Services,Police",33,0
-Calling about a cyber attack on city water treatment plant near the East Side.,"Cyber,Utilities,Public Works",95,0
-Calling about a aggressive pitbull attacking a pedestrian near Oak Road.,"Animal Control,Medical,Police",62,0
-Calling about a illegal dumping of toxic waste in the river near the East Side.,"Environmental,Police",90,1
-There is a boat sinking with 5 passengers on board near the Mall.,"Coastal Guard,Medical",94,0
-Reporting a active shooter in the shopping mall near Main St.,"Police,Medical",100,1
+Calling about a illegal dumping of toxic waste in the river near Oak Road.,"Environmental,Police",78,0
+I see a explosion heard in the industrial district near the Port.,"Fire,Police,Medical,Utilities",95,0
+I see a power lines down on a flooded street near the East Side.,"Utilities,Fire,Public Works",83,0
+Calling about a wildfire approaching residential area near the Suburbs.,"Fire,Police,Environmental",87,0
+Calling about a boat sinking with 5 passengers on board near the Suburbs.,"Coastal Guard,Medical",88,0
+Calling about a large warehouse fire with chemical containers near the Mall.,"Fire,Environmental,Medical",89,0
+URGENT: illegal dumping of toxic waste in the river near Downtown.,"Environmental,Police",73,0
+Reporting a identity theft and fraudulent credit cards near Downtown.,"Cyber,Police",41,0
+I see a boat sinking with 5 passengers on board near the Suburbs.,"Coastal Guard,Medical",90,0
+URGENT: illegal dumping of toxic waste in the river near the Port.,"Environmental,Police",63,0
+URGENT: someone trying to hack into my bank account near the Suburbs.,"Cyber,Police",43,0
+Calling about a stabbing incident during a street fight near the East Side.,"Police,Medical",91,0
+URGENT: child found alone and shivering in the park near Downtown.,"Social Services,Police",26,0
+URGENT: someone trying to hack into my bank account near the Port.,"Cyber,Police",43,0
+I see a power lines down on a flooded street near the Suburbs.,"Utilities,Fire,Public Works",83,0
+URGENT: illegal dumping of toxic waste in the river near the Mall.,"Environmental,Police",74,0
+There is a wildfire approaching residential area near Oak Road.,"Fire,Police,Environmental",100,1
+URGENT: power lines down on a flooded street near the Port.,"Utilities,Fire,Public Works",71,0
+Reporting a domestic dispute with loud screaming near Downtown.,"Police,Social Services",62,0
+URGENT: street light out at a busy intersection near the Port.,"Public Works,Utilities",9,0
+I see a testing connection near the East Side.,Utilities,25,1
+Calling about a boat sinking with 5 passengers on board near the East Side.,"Coastal Guard,Medical",96,0
 Calling about a identity theft and fraudulent credit cards near the Port.,"Cyber,Police",45,0
-Reporting a oil tanker leaking in the harbor near the East Side.,"Coastal Guard,Environmental",100,1
-Reporting a illegal dumping of toxic waste in the river near the Suburbs.,"Environmental,Police",66,0
-Reporting a child found alone and shivering in the park near Oak Road.,"Social Services,Police",32,0
-Calling about a homeless camp needing a welfare check near Oak Road.,Social Services,16,0
-I see a large warehouse fire with chemical containers near Downtown.,"Fire,Environmental,Medical",100,0
-URGENT: power lines down on a flooded street near the East Side.,"Utilities,Fire,Public Works",95,1
-URGENT: identity theft and fraudulent credit cards near the Port.,"Cyber,Police",60,1
-Reporting a wildfire approaching residential area near Downtown.,"Fire,Police,Environmental",100,1
-There is a broken water main flooding the downtown street near Main St.,"Utilities,Public Works",57,0
-URGENT: raccoon trapped in a residential chimney near Oak Road.,Animal Control,23,0
-Reporting a aggressive pitbull attacking a pedestrian near Oak Road.,"Animal Control,Medical,Police",73,0
-I see a wildfire approaching residential area near the East Side.,"Fire,Police,Environmental",98,0
-There is a cyber attack on city water treatment plant near the East Side.,"Cyber,Utilities,Public Works",94,0
-URGENT: child found alone and shivering in the park near Oak Road.,"Social Services,Police",19,0
-"Calling about a car accident, vehicle flipped and smoking near Main St.","Fire,Medical,Police",100,1
-I see a explosion heard in the industrial district near the Port.,"Fire,Police,Medical,Utilities",94,0
-Calling about a elderly person collapsed with chest pain near Main St.,Medical,100,1
-There is a gas smell in the apartment basement near the Mall.,"Fire,Utilities",77,0
-There is a raccoon trapped in a residential chimney near the Suburbs.,Animal Control,13,0
-Calling about a someone trying to hack into my bank account near the Mall.,"Cyber,Police",43,0
-Reporting a illegal dumping of toxic waste in the river near Downtown.,"Environmental,Police",90,1
-Reporting a stabbing incident during a street fight near the Port.,"Police,Medical",81,0
-Reporting a wildfire approaching residential area near Downtown.,"Fire,Police,Environmental",86,0
-There is a power lines down on a flooded street near Main St.,"Utilities,Fire,Public Works",68,0
+Calling about a large warehouse fire with chemical containers near the Port.,"Fire,Environmental,Medical",100,0
+URGENT: pothole reported on a quiet residential street near the East Side.,Public Works,6,0
+Calling about a homeless camp needing a welfare check near the East Side.,Social Services,12,0
+I see a vandalism and graffiti on the school wall near Downtown.,"Police,Public Works",2,0
+There is a power lines down on a flooded street near the Port.,"Utilities,Fire,Public Works",81,0
+Reporting a identity theft and fraudulent credit cards near Main St.,"Cyber,Police",33,0
+URGENT: aggressive pitbull attacking a pedestrian near Downtown.,"Animal Control,Medical,Police",61,0
+There is a active shooter in the shopping mall near the Port.,"Police,Medical",100,0
+There is a cyber attack on city water treatment plant near the East Side.,"Cyber,Utilities,Public Works",87,0
+I see a pothole reported on a quiet residential street near the Port.,Public Works,11,0
+There is a identity theft and fraudulent credit cards near Downtown.,"Cyber,Police",37,0
+URGENT: identity theft and fraudulent credit cards near the Mall.,"Cyber,Police",60,1
+URGENT: raccoon trapped in a residential chimney near Downtown.,Animal Control,35,1
+Reporting a vandalism and graffiti on the school wall near the Suburbs.,"Police,Public Works",2,0
+URGENT: identity theft and fraudulent credit cards near the Mall.,"Cyber,Police",35,0
+URGENT: suicidal individual on the bridge ledge near Main St.,"Police,Medical,Social Services",91,0
+I see a suicidal individual on the bridge ledge near the Suburbs.,"Police,Medical,Social Services",100,1
+Calling about a oil tanker leaking in the harbor near Downtown.,"Coastal Guard,Environmental",100,1
+There is a domestic dispute with loud screaming near the Port.,"Police,Social Services",47,0
+Reporting a raccoon trapped in a residential chimney near the Suburbs.,Animal Control,19,0
+I see a oil tanker leaking in the harbor near Oak Road.,"Coastal Guard,Environmental",88,0
+URGENT: illegal dumping of toxic waste in the river near the Mall.,"Environmental,Police",90,1
+I see a identity theft and fraudulent credit cards near Downtown.,"Cyber,Police",42,0
+Reporting a illegal dumping of toxic waste in the river near Oak Road.,"Environmental,Police",90,1
+URGENT: domestic dispute with loud screaming near Downtown.,"Police,Social Services",75,1
+I see a homeless camp needing a welfare check near Main St.,Social Services,18,0
+URGENT: aggressive pitbull attacking a pedestrian near the Suburbs.,"Animal Control,Medical,Police",61,0
+URGENT: boat sinking with 5 passengers on board near Downtown.,"Coastal Guard,Medical",100,0
+There is a vandalism and graffiti on the school wall near the Port.,"Police,Public Works",5,0
+There is a large warehouse fire with chemical containers near the Port.,"Fire,Environmental,Medical",88,0
+Calling about a large warehouse fire with chemical containers near Downtown.,"Fire,Environmental,Medical",100,1
+Reporting a cyber attack on city water treatment plant near Oak Road.,"Cyber,Utilities,Public Works",82,0
+"URGENT: car accident, vehicle flipped and smoking near the Mall.","Fire,Medical,Police",83,0
+Calling about a identity theft and fraudulent credit cards near Main St.,"Cyber,Police",45,0
+Calling about a pothole reported on a quiet residential street near the Mall.,Public Works,28,1
+I see a power lines down on a flooded street near Main St.,"Utilities,Fire,Public Works",73,0
+Calling about a gas smell in the apartment basement near the Port.,"Fire,Utilities",81,0
+Calling about a active shooter in the shopping mall near Main St.,"Police,Medical",90,0
+Reporting a active shooter in the shopping mall near Oak Road.,"Police,Medical",93,0
+There is a illegal dumping of toxic waste in the river near Downtown.,"Environmental,Police",76,0
+There is a power lines down on a flooded street near the Mall.,"Utilities,Fire,Public Works",79,0
+Calling about a stabbing incident during a street fight near the Mall.,"Police,Medical",93,0
+There is a identity theft and fraudulent credit cards near the Port.,"Cyber,Police",37,0
+Calling about a raccoon trapped in a residential chimney near Oak Road.,Animal Control,35,1
+Calling about a large warehouse fire with chemical containers near Downtown.,"Fire,Environmental,Medical",87,0
+Calling about a oil tanker leaking in the harbor near Main St.,"Coastal Guard,Environmental",75,0
+There is a illegal dumping of toxic waste in the river near the Suburbs.,"Environmental,Police",64,0
+I see a child found alone and shivering in the park near Downtown.,"Social Services,Police",18,0
+I see a cyber attack on city water treatment plant near the Mall.,"Cyber,Utilities,Public Works",100,1
+Reporting a boat sinking with 5 passengers on board near Main St.,"Coastal Guard,Medical",99,0
+There is a large warehouse fire with chemical containers near the Suburbs.,"Fire,Environmental,Medical",89,0
+Calling about a stabbing incident during a street fight near Main St.,"Police,Medical",92,0
+"Calling about a car accident, vehicle flipped and smoking near the Suburbs.","Fire,Medical,Police",80,0
+Calling about a suicidal individual on the bridge ledge near the Mall.,"Police,Medical,Social Services",82,0
+URGENT: wildfire approaching residential area near the Mall.,"Fire,Police,Environmental",88,0
+I see a someone trying to hack into my bank account near Oak Road.,"Cyber,Police",52,0
+There is a aggressive pitbull attacking a pedestrian near the Mall.,"Animal Control,Medical,Police",85,1
+There is a vandalism and graffiti on the school wall near the Port.,"Police,Public Works",6,0
+URGENT: power lines down on a flooded street near the Mall.,"Utilities,Fire,Public Works",74,0
+I see a power lines down on a flooded street near the Port.,"Utilities,Fire,Public Works",95,1
+There is a domestic dispute with loud screaming near Main St.,"Police,Social Services",50,0
+I see a explosion heard in the industrial district near Downtown.,"Fire,Police,Medical,Utilities",92,0
+Reporting a active shooter in the shopping mall near Downtown.,"Police,Medical",92,0
+URGENT: cyber attack on city water treatment plant near the East Side.,"Cyber,Utilities,Public Works",95,0
+Reporting a gas smell in the apartment basement near Downtown.,"Fire,Utilities",95,1
+URGENT: oil tanker leaking in the harbor near the East Side.,"Coastal Guard,Environmental",74,0
+Reporting a wildfire approaching residential area near the Port.,"Fire,Police,Environmental",99,0
+Calling about a large warehouse fire with chemical containers near Oak Road.,"Fire,Environmental,Medical",92,0
+Reporting a oil tanker leaking in the harbor near the Suburbs.,"Coastal Guard,Environmental",81,0
+There is a elderly person collapsed with chest pain near the Port.,Medical,100,1
+Reporting a testing connection near the Port.,Utilities,13,0
+"Reporting a car accident, vehicle flipped and smoking near Downtown.","Fire,Medical,Police",86,0
+I see a homeless camp needing a welfare check near Main St.,Social Services,40,1
+Calling about a wildfire approaching residential area near Main St.,"Fire,Police,Environmental",91,0
+There is a boat sinking with 5 passengers on board near the Suburbs.,"Coastal Guard,Medical",100,0
+There is a pothole reported on a quiet residential street near the Port.,Public Works,8,0
+"URGENT: car accident, vehicle flipped and smoking near the Mall.","Fire,Medical,Police",87,0
+There is a identity theft and fraudulent credit cards near the Port.,"Cyber,Police",38,0
+There is a large warehouse fire with chemical containers near the Port.,"Fire,Environmental,Medical",100,1
+Reporting a domestic dispute with loud screaming near the East Side.,"Police,Social Services",51,0
+I see a suicidal individual on the bridge ledge near the Suburbs.,"Police,Medical,Social Services",82,0
+Reporting a wildfire approaching residential area near the East Side.,"Fire,Police,Environmental",90,0
+URGENT: explosion heard in the industrial district near the Suburbs.,"Fire,Police,Medical,Utilities",100,0
+Calling about a identity theft and fraudulent credit cards near the East Side.,"Cyber,Police",60,1
+URGENT: street light out at a busy intersection near Main St.,"Public Works,Utilities",10,0
+Calling about a oil tanker leaking in the harbor near Main St.,"Coastal Guard,Environmental",100,1
+Reporting a explosion heard in the industrial district near Main St.,"Fire,Police,Medical,Utilities",100,1
+URGENT: testing connection near the Port.,Utilities,1,0
+Reporting a raccoon trapped in a residential chimney near Main St.,Animal Control,15,0
+Calling about a aggressive pitbull attacking a pedestrian near the Mall.,"Animal Control,Medical,Police",85,1
+I see a vandalism and graffiti on the school wall near the East Side.,"Police,Public Works",5,0
+Calling about a elderly person collapsed with chest pain near Downtown.,Medical,87,0
+There is a homeless camp needing a welfare check near the Port.,Social Services,27,0
+Reporting a cyber attack on city water treatment plant near the Mall.,"Cyber,Utilities,Public Works",89,0
+Calling about a pothole reported on a quiet residential street near the Suburbs.,Public Works,2,0
+I see a identity theft and fraudulent credit cards near the Suburbs.,"Cyber,Police",60,1
+Calling about a elderly person collapsed with chest pain near Downtown.,Medical,93,0
+Calling about a someone trying to hack into my bank account near the Suburbs.,"Cyber,Police",42,0
+"Calling about a car accident, vehicle flipped and smoking near Oak Road.","Fire,Medical,Police",85,0
+Reporting a cyber attack on city water treatment plant near the East Side.,"Cyber,Utilities,Public Works",96,0
+Reporting a elderly person collapsed with chest pain near the Mall.,Medical,84,0
+Reporting a homeless camp needing a welfare check near Downtown.,Social Services,26,0
+URGENT: child found alone and shivering in the park near the Port.,"Social Services,Police",17,0
+I see a boat sinking with 5 passengers on board near the Suburbs.,"Coastal Guard,Medical",100,1
+There is a power lines down on a flooded street near the East Side.,"Utilities,Fire,Public Works",75,0
+Reporting a stabbing incident during a street fight near the East Side.,"Police,Medical",88,0
+"I see a car accident, vehicle flipped and smoking near the Port.","Fire,Medical,Police",75,0
+I see a active shooter in the shopping mall near the Suburbs.,"Police,Medical",100,0
+Reporting a power lines down on a flooded street near Main St.,"Utilities,Fire,Public Works",76,0
+I see a explosion heard in the industrial district near the Port.,"Fire,Police,Medical,Utilities",92,0
+I see a testing connection near Downtown.,Utilities,10,0
+"URGENT: car accident, vehicle flipped and smoking near the Suburbs.","Fire,Medical,Police",100,1
+I see a homeless camp needing a welfare check near Main St.,Social Services,16,0
+Reporting a domestic dispute with loud screaming near the East Side.,"Police,Social Services",47,0
+Reporting a broken water main flooding the downtown street near the Port.,"Utilities,Public Works",53,0
+Reporting a vandalism and graffiti on the school wall near Downtown.,"Police,Public Works",10,0
+I see a large warehouse fire with chemical containers near Main St.,"Fire,Environmental,Medical",100,0
+Reporting a cyber attack on city water treatment plant near Main St.,"Cyber,Utilities,Public Works",92,0
+Calling about a raccoon trapped in a residential chimney near Oak Road.,Animal Control,15,0
+Reporting a broken water main flooding the downtown street near the Suburbs.,"Utilities,Public Works",80,1
+There is a raccoon trapped in a residential chimney near Downtown.,Animal Control,11,0
+URGENT: pothole reported on a quiet residential street near the Suburbs.,Public Works,15,0
+Reporting a domestic dispute with loud screaming near the East Side.,"Police,Social Services",62,0
+"Calling about a car accident, vehicle flipped and smoking near the Port.","Fire,Medical,Police",74,0
+Calling about a stabbing incident during a street fight near Main St.,"Police,Medical",94,0
+I see a broken water main flooding the downtown street near the Suburbs.,"Utilities,Public Works",56,0
+Reporting a suicidal individual on the bridge ledge near the Suburbs.,"Police,Medical,Social Services",97,0
+Reporting a child found alone and shivering in the park near Downtown.,"Social Services,Police",33,0
+URGENT: wildfire approaching residential area near the East Side.,"Fire,Police,Environmental",88,0
+There is a explosion heard in the industrial district near the Mall.,"Fire,Police,Medical,Utilities",100,0
+Calling about a identity theft and fraudulent credit cards near Main St.,"Cyber,Police",34,0
+There is a wildfire approaching residential area near the East Side.,"Fire,Police,Environmental",96,0
+Reporting a vandalism and graffiti on the school wall near Downtown.,"Police,Public Works",30,1
+URGENT: oil tanker leaking in the harbor near the Mall.,"Coastal Guard,Environmental",82,0
+Reporting a gas smell in the apartment basement near the Mall.,"Fire,Utilities",82,0
+There is a raccoon trapped in a residential chimney near the Suburbs.,Animal Control,35,1
+Reporting a wildfire approaching residential area near Oak Road.,"Fire,Police,Environmental",99,0
+Reporting a oil tanker leaking in the harbor near the Port.,"Coastal Guard,Environmental",75,0
+URGENT: elderly person collapsed with chest pain near the Port.,Medical,81,0
+Reporting a broken water main flooding the downtown street near the Port.,"Utilities,Public Works",80,1
+Reporting a large warehouse fire with chemical containers near the Mall.,"Fire,Environmental,Medical",96,0
+There is a someone trying to hack into my bank account near the Mall.,"Cyber,Police",47,0
+Reporting a pothole reported on a quiet residential street near the Mall.,Public Works,28,1
+I see a domestic dispute with loud screaming near Downtown.,"Police,Social Services",52,0
+URGENT: aggressive pitbull attacking a pedestrian near Downtown.,"Animal Control,Medical,Police",85,1
+URGENT: street light out at a busy intersection near the Port.,"Public Works,Utilities",5,0
+There is a boat sinking with 5 passengers on board near the Suburbs.,"Coastal Guard,Medical",91,0
+There is a suicidal individual on the bridge ledge near the Mall.,"Police,Medical,Social Services",87,0
+I see a active shooter in the shopping mall near Downtown.,"Police,Medical",97,0
+Calling about a vandalism and graffiti on the school wall near the East Side.,"Police,Public Works",17,0
+Calling about a wildfire approaching residential area near Downtown.,"Fire,Police,Environmental",96,0
+There is a large warehouse fire with chemical containers near the East Side.,"Fire,Environmental,Medical",100,0
+URGENT: street light out at a busy intersection near the Suburbs.,"Public Works,Utilities",15,0
+I see a child found alone and shivering in the park near Downtown.,"Social Services,Police",17,0
+There is a vandalism and graffiti on the school wall near the Mall.,"Police,Public Works",7,0
+URGENT: pothole reported on a quiet residential street near Downtown.,Public Works,28,1
+There is a power lines down on a flooded street near Oak Road.,"Utilities,Fire,Public Works",95,1
+There is a cyber attack on city water treatment plant near the Mall.,"Cyber,Utilities,Public Works",91,0
+Calling about a vandalism and graffiti on the school wall near Main St.,"Police,Public Works",30,1
+Reporting a active shooter in the shopping mall near the Mall.,"Police,Medical",100,0
+Reporting a homeless camp needing a welfare check near the Mall.,Social Services,17,0
+"URGENT: car accident, vehicle flipped and smoking near the Mall.","Fire,Medical,Police",100,1
+URGENT: cyber attack on city water treatment plant near Main St.,"Cyber,Utilities,Public Works",87,0
+Reporting a identity theft and fraudulent credit cards near the Mall.,"Cyber,Police",35,0
+I see a raccoon trapped in a residential chimney near Main St.,Animal Control,20,0
+Calling about a broken water main flooding the downtown street near Downtown.,"Utilities,Public Works",57,0
+Calling about a identity theft and fraudulent credit cards near the East Side.,"Cyber,Police",36,0
+Reporting a cyber attack on city water treatment plant near the Port.,"Cyber,Utilities,Public Works",100,1
+URGENT: testing connection near the Port.,Utilities,6,0
+URGENT: illegal dumping of toxic waste in the river near Oak Road.,"Environmental,Police",64,0
+There is a vandalism and graffiti on the school wall near Main St.,"Police,Public Works",13,0
+Reporting a broken water main flooding the downtown street near the East Side.,"Utilities,Public Works",52,0
+Reporting a wildfire approaching residential area near the East Side.,"Fire,Police,Environmental",89,0
+"Reporting a car accident, vehicle flipped and smoking near the Port.","Fire,Medical,Police",75,0
+There is a aggressive pitbull attacking a pedestrian near the East Side.,"Animal Control,Medical,Police",66,0
+I see a stabbing incident during a street fight near the Mall.,"Police,Medical",100,1
+Reporting a active shooter in the shopping mall near the Port.,"Police,Medical",100,0
+Calling about a child found alone and shivering in the park near Downtown.,"Social Services,Police",32,0
+Calling about a illegal dumping of toxic waste in the river near the Port.,"Environmental,Police",74,0
+Reporting a aggressive pitbull attacking a pedestrian near Downtown.,"Animal Control,Medical,Police",63,0
+I see a illegal dumping of toxic waste in the river near the Port.,"Environmental,Police",68,0
+"Reporting a car accident, vehicle flipped and smoking near the East Side.","Fire,Medical,Police",100,1
+I see a power lines down on a flooded street near the Suburbs.,"Utilities,Fire,Public Works",68,0
+Reporting a raccoon trapped in a residential chimney near Oak Road.,Animal Control,9,0
+I see a cyber attack on city water treatment plant near the Port.,"Cyber,Utilities,Public Works",89,0
+URGENT: stabbing incident during a street fight near Main St.,"Police,Medical",81,0
+URGENT: wildfire approaching residential area near the Mall.,"Fire,Police,Environmental",84,0
+There is a child found alone and shivering in the park near Main St.,"Social Services,Police",22,0
+Calling about a oil tanker leaking in the harbor near the East Side.,"Coastal Guard,Environmental",82,0
+Reporting a pothole reported on a quiet residential street near the East Side.,Public Works,6,0
+Calling about a elderly person collapsed with chest pain near the East Side.,Medical,100,1
+Calling about a active shooter in the shopping mall near Main St.,"Police,Medical",93,0
+Reporting a elderly person collapsed with chest pain near Downtown.,Medical,85,0
+I see a suicidal individual on the bridge ledge near the Port.,"Police,Medical,Social Services",96,0
+URGENT: stabbing incident during a street fight near Downtown.,"Police,Medical",81,0
+I see a elderly person collapsed with chest pain near the East Side.,Medical,78,0
+URGENT: stabbing incident during a street fight near Main St.,"Police,Medical",91,0
+Calling about a power lines down on a flooded street near the Suburbs.,"Utilities,Fire,Public Works",95,1
+Reporting a broken water main flooding the downtown street near the Port.,"Utilities,Public Works",52,0
+URGENT: raccoon trapped in a residential chimney near the East Side.,Animal Control,35,1
+There is a street light out at a busy intersection near Main St.,"Public Works,Utilities",14,0
+There is a gas smell in the apartment basement near the Mall.,"Fire,Utilities",95,1
+Reporting a vandalism and graffiti on the school wall near the Suburbs.,"Police,Public Works",16,0
+I see a suicidal individual on the bridge ledge near Oak Road.,"Police,Medical,Social Services",91,0
+Calling about a cyber attack on city water treatment plant near the East Side.,"Cyber,Utilities,Public Works",84,0
+URGENT: someone trying to hack into my bank account near the Suburbs.,"Cyber,Police",48,0
+Reporting a oil tanker leaking in the harbor near Oak Road.,"Coastal Guard,Environmental",82,0
+There is a street light out at a busy intersection near Downtown.,"Public Works,Utilities",17,0
+Reporting a raccoon trapped in a residential chimney near Downtown.,Animal Control,8,0
+Reporting a pothole reported on a quiet residential street near Oak Road.,Public Works,6,0
+I see a power lines down on a flooded street near Oak Road.,"Utilities,Fire,Public Works",77,0
+I see a homeless camp needing a welfare check near Oak Road.,Social Services,40,1
+There is a suicidal individual on the bridge ledge near Main St.,"Police,Medical,Social Services",88,0
+I see a large warehouse fire with chemical containers near the Suburbs.,"Fire,Environmental,Medical",89,0
+Reporting a identity theft and fraudulent credit cards near Oak Road.,"Cyber,Police",60,1
+There is a elderly person collapsed with chest pain near the Mall.,Medical,90,0
+Reporting a power lines down on a flooded street near Main St.,"Utilities,Fire,Public Works",83,0
+"Calling about a car accident, vehicle flipped and smoking near the East Side.","Fire,Medical,Police",74,0
+"There is a car accident, vehicle flipped and smoking near the East Side.","Fire,Medical,Police",88,0
+There is a cyber attack on city water treatment plant near the Mall.,"Cyber,Utilities,Public Works",89,0
+I see a testing connection near Main St.,Utilities,25,1
+Reporting a explosion heard in the industrial district near the East Side.,"Fire,Police,Medical,Utilities",99,0
+"Calling about a car accident, vehicle flipped and smoking near the East Side.","Fire,Medical,Police",73,0
+Calling about a elderly person collapsed with chest pain near Main St.,Medical,81,0
+I see a wildfire approaching residential area near the Mall.,"Fire,Police,Environmental",100,1
+There is a cyber attack on city water treatment plant near the Suburbs.,"Cyber,Utilities,Public Works",95,0
+There is a large warehouse fire with chemical containers near the Port.,"Fire,Environmental,Medical",92,0
+There is a raccoon trapped in a residential chimney near the Suburbs.,Animal Control,15,0
+"There is a car accident, vehicle flipped and smoking near the Port.","Fire,Medical,Police",78,0
+Reporting a aggressive pitbull attacking a pedestrian near the Suburbs.,"Animal Control,Medical,Police",85,1
+Reporting a stabbing incident during a street fight near the Port.,"Police,Medical",100,1
+There is a oil tanker leaking in the harbor near Downtown.,"Coastal Guard,Environmental",80,0
+There is a someone trying to hack into my bank account near Main St.,"Cyber,Police",39,0
+There is a aggressive pitbull attacking a pedestrian near the Mall.,"Animal Control,Medical,Police",65,0
+I see a power lines down on a flooded street near the Port.,"Utilities,Fire,Public Works",69,0
+I see a vandalism and graffiti on the school wall near Downtown.,"Police,Public Works",30,1
+URGENT: someone trying to hack into my bank account near the Mall.,"Cyber,Police",52,0
+URGENT: boat sinking with 5 passengers on board near Downtown.,"Coastal Guard,Medical",98,0
+"Reporting a car accident, vehicle flipped and smoking near the East Side.","Fire,Medical,Police",83,0
+Calling about a child found alone and shivering in the park near the Port.,"Social Services,Police",33,0
+URGENT: aggressive pitbull attacking a pedestrian near Downtown.,"Animal Control,Medical,Police",67,0
+Reporting a identity theft and fraudulent credit cards near the Mall.,"Cyber,Police",46,0
+URGENT: illegal dumping of toxic waste in the river near Oak Road.,"Environmental,Police",77,0
+URGENT: elderly person collapsed with chest pain near the East Side.,Medical,92,0
+I see a oil tanker leaking in the harbor near the Mall.,"Coastal Guard,Environmental",78,0
+I see a explosion heard in the industrial district near Downtown.,"Fire,Police,Medical,Utilities",96,0
+There is a cyber attack on city water treatment plant near the Suburbs.,"Cyber,Utilities,Public Works",94,0
+I see a testing connection near Main St.,Utilities,3,0
+URGENT: elderly person collapsed with chest pain near Main St.,Medical,100,1
+URGENT: gas smell in the apartment basement near Oak Road.,"Fire,Utilities",95,1
+Reporting a cyber attack on city water treatment plant near the Port.,"Cyber,Utilities,Public Works",94,0
+I see a boat sinking with 5 passengers on board near Main St.,"Coastal Guard,Medical",100,0
+URGENT: oil tanker leaking in the harbor near the Mall.,"Coastal Guard,Environmental",100,1
+URGENT: stabbing incident during a street fight near Oak Road.,"Police,Medical",88,0
+Calling about a testing connection near Downtown.,Utilities,13,0
+There is a illegal dumping of toxic waste in the river near Main St.,"Environmental,Police",66,0
+Reporting a large warehouse fire with chemical containers near Downtown.,"Fire,Environmental,Medical",91,0
+I see a illegal dumping of toxic waste in the river near the Suburbs.,"Environmental,Police",66,0
+URGENT: suicidal individual on the bridge ledge near Oak Road.,"Police,Medical,Social Services",93,0
+I see a aggressive pitbull attacking a pedestrian near the East Side.,"Animal Control,Medical,Police",71,0
+Reporting a stabbing incident during a street fight near the Port.,"Police,Medical",93,0
+There is a gas smell in the apartment basement near the East Side.,"Fire,Utilities",74,0
+I see a gas smell in the apartment basement near Main St.,"Fire,Utilities",95,1
+Calling about a homeless camp needing a welfare check near the East Side.,Social Services,40,1
+I see a boat sinking with 5 passengers on board near Downtown.,"Coastal Guard,Medical",100,1
+Calling about a power lines down on a flooded street near the Suburbs.,"Utilities,Fire,Public Works",83,0
+I see a testing connection near the Port.,Utilities,8,0
+There is a broken water main flooding the downtown street near Oak Road.,"Utilities,Public Works",80,1
+I see a homeless camp needing a welfare check near Oak Road.,Social Services,25,0
+Calling about a wildfire approaching residential area near Oak Road.,"Fire,Police,Environmental",100,1
+URGENT: power lines down on a flooded street near Oak Road.,"Utilities,Fire,Public Works",95,1
+There is a raccoon trapped in a residential chimney near Oak Road.,Animal Control,9,0
+I see a homeless camp needing a welfare check near Downtown.,Social Services,40,1
+URGENT: wildfire approaching residential area near the Port.,"Fire,Police,Environmental",100,1
+There is a cyber attack on city water treatment plant near the Mall.,"Cyber,Utilities,Public Works",91,0
+I see a gas smell in the apartment basement near Downtown.,"Fire,Utilities",81,0
+Reporting a raccoon trapped in a residential chimney near Main St.,Animal Control,20,0
+I see a suicidal individual on the bridge ledge near Oak Road.,"Police,Medical,Social Services",90,0
+URGENT: vandalism and graffiti on the school wall near Main St.,"Police,Public Works",30,1
+Reporting a aggressive pitbull attacking a pedestrian near the Mall.,"Animal Control,Medical,Police",65,0
+There is a illegal dumping of toxic waste in the river near the Mall.,"Environmental,Police",90,1
+I see a large warehouse fire with chemical containers near Main St.,"Fire,Environmental,Medical",96,0
+I see a domestic dispute with loud screaming near the East Side.,"Police,Social Services",54,0
+Reporting a active shooter in the shopping mall near the Suburbs.,"Police,Medical",97,0
+URGENT: large warehouse fire with chemical containers near Downtown.,"Fire,Environmental,Medical",100,0
+I see a vandalism and graffiti on the school wall near Oak Road.,"Police,Public Works",3,0
+URGENT: explosion heard in the industrial district near Oak Road.,"Fire,Police,Medical,Utilities",93,0
+URGENT: aggressive pitbull attacking a pedestrian near Main St.,"Animal Control,Medical,Police",63,0
+There is a vandalism and graffiti on the school wall near the East Side.,"Police,Public Works",12,0
+Reporting a gas smell in the apartment basement near Main St.,"Fire,Utilities",95,1
+I see a broken water main flooding the downtown street near Oak Road.,"Utilities,Public Works",80,1
+Reporting a child found alone and shivering in the park near the Suburbs.,"Social Services,Police",45,1
+Reporting a someone trying to hack into my bank account near the Port.,"Cyber,Police",38,0
+Calling about a vandalism and graffiti on the school wall near the Port.,"Police,Public Works",4,0
+There is a suicidal individual on the bridge ledge near Downtown.,"Police,Medical,Social Services",100,1
+URGENT: elderly person collapsed with chest pain near Main St.,Medical,100,1
+I see a stabbing incident during a street fight near the Suburbs.,"Police,Medical",93,0
+Reporting a aggressive pitbull attacking a pedestrian near Oak Road.,"Animal Control,Medical,Police",58,0
+URGENT: homeless camp needing a welfare check near Oak Road.,Social Services,20,0
+Calling about a street light out at a busy intersection near Downtown.,"Public Works,Utilities",11,0
+Calling about a broken water main flooding the downtown street near Main St.,"Utilities,Public Works",80,1
+I see a elderly person collapsed with chest pain near Downtown.,Medical,84,0
+URGENT: stabbing incident during a street fight near Downtown.,"Police,Medical",87,0
+Reporting a illegal dumping of toxic waste in the river near the Port.,"Environmental,Police",66,0
+Calling about a someone trying to hack into my bank account near the East Side.,"Cyber,Police",38,0
+Reporting a homeless camp needing a welfare check near Main St.,Social Services,40,1
+Reporting a identity theft and fraudulent credit cards near the Port.,"Cyber,Police",41,0
+Reporting a boat sinking with 5 passengers on board near the Suburbs.,"Coastal Guard,Medical",92,0
+There is a boat sinking with 5 passengers on board near the East Side.,"Coastal Guard,Medical",90,0
+There is a suicidal individual on the bridge ledge near Oak Road.,"Police,Medical,Social Services",90,0
+I see a elderly person collapsed with chest pain near the Suburbs.,Medical,92,0
+There is a broken water main flooding the downtown street near Main St.,"Utilities,Public Works",61,0
+I see a oil tanker leaking in the harbor near the Suburbs.,"Coastal Guard,Environmental",81,0
+There is a street light out at a busy intersection near the East Side.,"Public Works,Utilities",32,1
+Calling about a homeless camp needing a welfare check near the Port.,Social Services,18,0
+I see a testing connection near the Suburbs.,Utilities,5,0
+There is a pothole reported on a quiet residential street near the East Side.,Public Works,8,0
+Calling about a large warehouse fire with chemical containers near the East Side.,"Fire,Environmental,Medical",99,0
+I see a explosion heard in the industrial district near Downtown.,"Fire,Police,Medical,Utilities",100,0
+I see a suicidal individual on the bridge ledge near Downtown.,"Police,Medical,Social Services",89,0
+URGENT: aggressive pitbull attacking a pedestrian near the Mall.,"Animal Control,Medical,Police",85,1
+I see a homeless camp needing a welfare check near the Mall.,Social Services,28,0
+There is a large warehouse fire with chemical containers near the Port.,"Fire,Environmental,Medical",88,0
+URGENT: power lines down on a flooded street near the Suburbs.,"Utilities,Fire,Public Works",78,0
+There is a street light out at a busy intersection near the Port.,"Public Works,Utilities",20,0
+There is a elderly person collapsed with chest pain near the Suburbs.,Medical,100,1
+I see a illegal dumping of toxic waste in the river near the Port.,"Environmental,Police",72,0
+Reporting a aggressive pitbull attacking a pedestrian near the Suburbs.,"Animal Control,Medical,Police",63,0
+Calling about a boat sinking with 5 passengers on board near the Suburbs.,"Coastal Guard,Medical",100,1
+There is a large warehouse fire with chemical containers near the East Side.,"Fire,Environmental,Medical",90,0
+Reporting a pothole reported on a quiet residential street near the Mall.,Public Works,5,0
+Reporting a wildfire approaching residential area near the Suburbs.,"Fire,Police,Environmental",100,1
+There is a boat sinking with 5 passengers on board near the Mall.,"Coastal Guard,Medical",91,0
+Reporting a child found alone and shivering in the park near the Port.,"Social Services,Police",32,0
+Reporting a wildfire approaching residential area near Main St.,"Fire,Police,Environmental",94,0
+There is a broken water main flooding the downtown street near the Port.,"Utilities,Public Works",53,0
+Calling about a aggressive pitbull attacking a pedestrian near Oak Road.,"Animal Control,Medical,Police",85,1
+There is a explosion heard in the industrial district near Oak Road.,"Fire,Police,Medical,Utilities",100,0
+I see a stabbing incident during a street fight near Oak Road.,"Police,Medical",93,0
+I see a power lines down on a flooded street near Downtown.,"Utilities,Fire,Public Works",68,0
+I see a testing connection near Downtown.,Utilities,12,0
+There is a stabbing incident during a street fight near Main St.,"Police,Medical",100,1
+Reporting a active shooter in the shopping mall near the East Side.,"Police,Medical",100,0
+Reporting a pothole reported on a quiet residential street near Downtown.,Public Works,3,0
+URGENT: cyber attack on city water treatment plant near the Port.,"Cyber,Utilities,Public Works",89,0
+"URGENT: car accident, vehicle flipped and smoking near Downtown.","Fire,Medical,Police",86,0
+URGENT: suicidal individual on the bridge ledge near Oak Road.,"Police,Medical,Social Services",88,0
+Calling about a illegal dumping of toxic waste in the river near the Suburbs.,"Environmental,Police",76,0
+I see a testing connection near the East Side.,Utilities,11,0
+I see a power lines down on a flooded street near Oak Road.,"Utilities,Fire,Public Works",95,1
+Reporting a oil tanker leaking in the harbor near the Suburbs.,"Coastal Guard,Environmental",100,1
+Reporting a suicidal individual on the bridge ledge near the Suburbs.,"Police,Medical,Social Services",95,0
+Calling about a suicidal individual on the bridge ledge near the Mall.,"Police,Medical,Social Services",88,0
+There is a boat sinking with 5 passengers on board near Oak Road.,"Coastal Guard,Medical",92,0
+Calling about a suicidal individual on the bridge ledge near the East Side.,"Police,Medical,Social Services",88,0
+Calling about a large warehouse fire with chemical containers near Downtown.,"Fire,Environmental,Medical",100,1
+Reporting a domestic dispute with loud screaming near the Mall.,"Police,Social Services",49,0
+Reporting a active shooter in the shopping mall near the East Side.,"Police,Medical",100,0
+I see a street light out at a busy intersection near Downtown.,"Public Works,Utilities",11,0
+Calling about a active shooter in the shopping mall near the Suburbs.,"Police,Medical",100,0
+URGENT: gas smell in the apartment basement near Oak Road.,"Fire,Utilities",81,0
+URGENT: vandalism and graffiti on the school wall near Main St.,"Police,Public Works",30,1
+Calling about a cyber attack on city water treatment plant near the Suburbs.,"Cyber,Utilities,Public Works",83,0
+URGENT: pothole reported on a quiet residential street near the Port.,Public Works,28,1
+I see a domestic dispute with loud screaming near Main St.,"Police,Social Services",53,0
+I see a broken water main flooding the downtown street near the Suburbs.,"Utilities,Public Works",80,1
+Calling about a street light out at a busy intersection near the Port.,"Public Works,Utilities",15,0
+URGENT: explosion heard in the industrial district near the Mall.,"Fire,Police,Medical,Utilities",100,1
+Calling about a vandalism and graffiti on the school wall near the East Side.,"Police,Public Works",2,0
+I see a testing connection near Main St.,Utilities,9,0
+Calling about a elderly person collapsed with chest pain near the East Side.,Medical,82,0
+Calling about a power lines down on a flooded street near Main St.,"Utilities,Fire,Public Works",83,0
+I see a vandalism and graffiti on the school wall near Oak Road.,"Police,Public Works",12,0
+There is a oil tanker leaking in the harbor near the Port.,"Coastal Guard,Environmental",85,0
+Reporting a identity theft and fraudulent credit cards near the Suburbs.,"Cyber,Police",60,1
+There is a child found alone and shivering in the park near Downtown.,"Social Services,Police",17,0
+There is a raccoon trapped in a residential chimney near the Suburbs.,Animal Control,14,0
+Calling about a boat sinking with 5 passengers on board near Main St.,"Coastal Guard,Medical",100,0
+Reporting a homeless camp needing a welfare check near Downtown.,Social Services,24,0
+I see a stabbing incident during a street fight near Main St.,"Police,Medical",90,0
+I see a power lines down on a flooded street near the East Side.,"Utilities,Fire,Public Works",82,0
+Calling about a power lines down on a flooded street near Downtown.,"Utilities,Fire,Public Works",68,0
+URGENT: power lines down on a flooded street near the East Side.,"Utilities,Fire,Public Works",73,0
+Calling about a boat sinking with 5 passengers on board near the Suburbs.,"Coastal Guard,Medical",90,0
+There is a broken water main flooding the downtown street near the East Side.,"Utilities,Public Works",54,0
+Reporting a raccoon trapped in a residential chimney near the Suburbs.,Animal Control,12,0
+I see a stabbing incident during a street fight near the East Side.,"Police,Medical",100,1
+I see a street light out at a busy intersection near Main St.,"Public Works,Utilities",32,1
+There is a pothole reported on a quiet residential street near Main St.,Public Works,12,0
+There is a illegal dumping of toxic waste in the river near Downtown.,"Environmental,Police",73,0
+"Calling about a car accident, vehicle flipped and smoking near the East Side.","Fire,Medical,Police",76,0
+"Reporting a car accident, vehicle flipped and smoking near Downtown.","Fire,Medical,Police",82,0
+Calling about a domestic dispute with loud screaming near the Mall.,"Police,Social Services",54,0
+Reporting a active shooter in the shopping mall near the Suburbs.,"Police,Medical",90,0
+URGENT: suicidal individual on the bridge ledge near the Port.,"Police,Medical,Social Services",88,0
+Calling about a aggressive pitbull attacking a pedestrian near the Mall.,"Animal Control,Medical,Police",85,1
+URGENT: pothole reported on a quiet residential street near Downtown.,Public Works,28,1
+I see a cyber attack on city water treatment plant near Oak Road.,"Cyber,Utilities,Public Works",100,1
+There is a child found alone and shivering in the park near the East Side.,"Social Services,Police",26,0
+URGENT: vandalism and graffiti on the school wall near Downtown.,"Police,Public Works",4,0
+Reporting a someone trying to hack into my bank account near the Port.,"Cyber,Police",40,0
+I see a vandalism and graffiti on the school wall near the East Side.,"Police,Public Works",13,0
+Calling about a large warehouse fire with chemical containers near the Suburbs.,"Fire,Environmental,Medical",94,0
+Reporting a child found alone and shivering in the park near Main St.,"Social Services,Police",45,1
+URGENT: cyber attack on city water treatment plant near the Suburbs.,"Cyber,Utilities,Public Works",93,0
+There is a testing connection near Main St.,Utilities,6,0
+URGENT: identity theft and fraudulent credit cards near the Port.,"Cyber,Police",34,0
+URGENT: homeless camp needing a welfare check near the East Side.,Social Services,16,0
+There is a cyber attack on city water treatment plant near Oak Road.,"Cyber,Utilities,Public Works",96,0
+There is a stabbing incident during a street fight near Oak Road.,"Police,Medical",84,0
+There is a someone trying to hack into my bank account near the East Side.,"Cyber,Police",42,0
+There is a large warehouse fire with chemical containers near the Suburbs.,"Fire,Environmental,Medical",95,0
+URGENT: identity theft and fraudulent credit cards near the Suburbs.,"Cyber,Police",42,0
+Reporting a elderly person collapsed with chest pain near Main St.,Medical,83,0
+URGENT: child found alone and shivering in the park near Downtown.,"Social Services,Police",27,0
+Calling about a street light out at a busy intersection near the Mall.,"Public Works,Utilities",13,0
+I see a boat sinking with 5 passengers on board near the Port.,"Coastal Guard,Medical",95,0
+I see a cyber attack on city water treatment plant near the Suburbs.,"Cyber,Utilities,Public Works",100,1
+There is a raccoon trapped in a residential chimney near the Mall.,Animal Control,16,0
+There is a suicidal individual on the bridge ledge near the Suburbs.,"Police,Medical,Social Services",86,0
+There is a illegal dumping of toxic waste in the river near the Mall.,"Environmental,Police",90,1
+Calling about a child found alone and shivering in the park near the Mall.,"Social Services,Police",23,0
+Calling about a active shooter in the shopping mall near the Port.,"Police,Medical",100,0
+Reporting a domestic dispute with loud screaming near the Suburbs.,"Police,Social Services",62,0
+Reporting a power lines down on a flooded street near the Mall.,"Utilities,Fire,Public Works",95,1
+URGENT: broken water main flooding the downtown street near Downtown.,"Utilities,Public Works",54,0
+Reporting a cyber attack on city water treatment plant near the Suburbs.,"Cyber,Utilities,Public Works",100,1
+I see a aggressive pitbull attacking a pedestrian near the Mall.,"Animal Control,Medical,Police",85,1
+I see a illegal dumping of toxic waste in the river near the Port.,"Environmental,Police",75,0
+Reporting a raccoon trapped in a residential chimney near the East Side.,Animal Control,22,0
+I see a active shooter in the shopping mall near Downtown.,"Police,Medical",100,0
+I see a street light out at a busy intersection near the Mall.,"Public Works,Utilities",6,0
+Reporting a large warehouse fire with chemical containers near the Mall.,"Fire,Environmental,Medical",99,0
+Calling about a explosion heard in the industrial district near the Port.,"Fire,Police,Medical,Utilities",97,0
+I see a gas smell in the apartment basement near Main St.,"Fire,Utilities",95,1
+Calling about a street light out at a busy intersection near the Mall.,"Public Works,Utilities",32,1
+Calling about a stabbing incident during a street fight near the Mall.,"Police,Medical",82,0
+URGENT: broken water main flooding the downtown street near Main St.,"Utilities,Public Works",80,1
+Calling about a pothole reported on a quiet residential street near Downtown.,Public Works,28,1
+"There is a car accident, vehicle flipped and smoking near the Mall.","Fire,Medical,Police",83,0
+URGENT: oil tanker leaking in the harbor near the Mall.,"Coastal Guard,Environmental",85,0
+Calling about a pothole reported on a quiet residential street near the East Side.,Public Works,3,0
+Calling about a cyber attack on city water treatment plant near the Suburbs.,"Cyber,Utilities,Public Works",100,1
+Calling about a suicidal individual on the bridge ledge near Main St.,"Police,Medical,Social Services",94,0
+Calling about a wildfire approaching residential area near Downtown.,"Fire,Police,Environmental",100,1
+Reporting a oil tanker leaking in the harbor near the East Side.,"Coastal Guard,Environmental",78,0
+There is a suicidal individual on the bridge ledge near Main St.,"Police,Medical,Social Services",90,0
+Calling about a elderly person collapsed with chest pain near Oak Road.,Medical,88,0
+"I see a car accident, vehicle flipped and smoking near the East Side.","Fire,Medical,Police",78,0
+Calling about a cyber attack on city water treatment plant near the East Side.,"Cyber,Utilities,Public Works",89,0
+URGENT: pothole reported on a quiet residential street near the Suburbs.,Public Works,10,0
+Reporting a suicidal individual on the bridge ledge near the Port.,"Police,Medical,Social Services",92,0
+Calling about a large warehouse fire with chemical containers near Oak Road.,"Fire,Environmental,Medical",96,0
+There is a suicidal individual on the bridge ledge near the Port.,"Police,Medical,Social Services",94,0
+I see a power lines down on a flooded street near Oak Road.,"Utilities,Fire,Public Works",73,0
+Reporting a broken water main flooding the downtown street near the Suburbs.,"Utilities,Public Works",80,1
+Calling about a aggressive pitbull attacking a pedestrian near the Suburbs.,"Animal Control,Medical,Police",85,1
+There is a elderly person collapsed with chest pain near Main St.,Medical,100,1
+I see a stabbing incident during a street fight near the Suburbs.,"Police,Medical",90,0
+Reporting a oil tanker leaking in the harbor near the Suburbs.,"Coastal Guard,Environmental",86,0
+I see a street light out at a busy intersection near Oak Road.,"Public Works,Utilities",4,0
+There is a someone trying to hack into my bank account near the Port.,"Cyber,Police",65,1
+Calling about a broken water main flooding the downtown street near the Suburbs.,"Utilities,Public Works",66,0
+Reporting a testing connection near Main St.,Utilities,25,1
+Reporting a broken water main flooding the downtown street near Downtown.,"Utilities,Public Works",80,1
+There is a illegal dumping of toxic waste in the river near Main St.,"Environmental,Police",75,0
+I see a boat sinking with 5 passengers on board near Oak Road.,"Coastal Guard,Medical",87,0
+Calling about a someone trying to hack into my bank account near Oak Road.,"Cyber,Police",44,0
+URGENT: identity theft and fraudulent credit cards near the Suburbs.,"Cyber,Police",33,0
+Calling about a suicidal individual on the bridge ledge near the Mall.,"Police,Medical,Social Services",82,0
+Calling about a wildfire approaching residential area near Downtown.,"Fire,Police,Environmental",85,0
+I see a elderly person collapsed with chest pain near the Mall.,Medical,100,1
+URGENT: testing connection near the East Side.,Utilities,2,0
+Calling about a cyber attack on city water treatment plant near the Mall.,"Cyber,Utilities,Public Works",83,0
+Calling about a gas smell in the apartment basement near Downtown.,"Fire,Utilities",95,1
+I see a illegal dumping of toxic waste in the river near Oak Road.,"Environmental,Police",77,0
+URGENT: gas smell in the apartment basement near the Mall.,"Fire,Utilities",71,0
+Calling about a homeless camp needing a welfare check near the East Side.,Social Services,21,0
+I see a someone trying to hack into my bank account near Oak Road.,"Cyber,Police",37,0
+I see a child found alone and shivering in the park near Main St.,"Social Services,Police",20,0
+I see a broken water main flooding the downtown street near Main St.,"Utilities,Public Works",55,0
+Reporting a broken water main flooding the downtown street near the Port.,"Utilities,Public Works",58,0
+I see a child found alone and shivering in the park near the Mall.,"Social Services,Police",21,0
+Reporting a raccoon trapped in a residential chimney near Main St.,Animal Control,14,0
+There is a broken water main flooding the downtown street near Main St.,"Utilities,Public Works",67,0
+URGENT: active shooter in the shopping mall near Main St.,"Police,Medical",100,0
+Reporting a someone trying to hack into my bank account near Main St.,"Cyber,Police",50,0
+URGENT: aggressive pitbull attacking a pedestrian near the Suburbs.,"Animal Control,Medical,Police",70,0
+I see a someone trying to hack into my bank account near Downtown.,"Cyber,Police",65,1
+Reporting a broken water main flooding the downtown street near Main St.,"Utilities,Public Works",59,0
+URGENT: identity theft and fraudulent credit cards near the Suburbs.,"Cyber,Police",38,0
+There is a elderly person collapsed with chest pain near the Port.,Medical,100,1
+I see a boat sinking with 5 passengers on board near the Mall.,"Coastal Guard,Medical",100,1
+There is a elderly person collapsed with chest pain near Downtown.,Medical,100,1
+Calling about a active shooter in the shopping mall near Downtown.,"Police,Medical",91,0
+URGENT: raccoon trapped in a residential chimney near Downtown.,Animal Control,7,0
+URGENT: gas smell in the apartment basement near Oak Road.,"Fire,Utilities",95,1
+There is a power lines down on a flooded street near the Port.,"Utilities,Fire,Public Works",76,0
+Calling about a stabbing incident during a street fight near the East Side.,"Police,Medical",100,1
+I see a oil tanker leaking in the harbor near the Port.,"Coastal Guard,Environmental",100,1
+"URGENT: car accident, vehicle flipped and smoking near the East Side.","Fire,Medical,Police",75,0
+I see a boat sinking with 5 passengers on board near the Suburbs.,"Coastal Guard,Medical",100,0
+Calling about a street light out at a busy intersection near Main St.,"Public Works,Utilities",18,0
+There is a stabbing incident during a street fight near Downtown.,"Police,Medical",100,1
+I see a wildfire approaching residential area near Oak Road.,"Fire,Police,Environmental",93,0
+Reporting a testing connection near Oak Road.,Utilities,4,0
+Reporting a homeless camp needing a welfare check near Oak Road.,Social Services,40,1
+URGENT: broken water main flooding the downtown street near Oak Road.,"Utilities,Public Works",64,0
+I see a street light out at a busy intersection near the East Side.,"Public Works,Utilities",20,0
+There is a vandalism and graffiti on the school wall near the Suburbs.,"Police,Public Works",30,1
+Reporting a identity theft and fraudulent credit cards near the East Side.,"Cyber,Police",47,0
+There is a gas smell in the apartment basement near the Suburbs.,"Fire,Utilities",73,0
+URGENT: explosion heard in the industrial district near the East Side.,"Fire,Police,Medical,Utilities",100,0
+Calling about a large warehouse fire with chemical containers near the East Side.,"Fire,Environmental,Medical",91,0
+URGENT: active shooter in the shopping mall near the Suburbs.,"Police,Medical",100,1
+Reporting a oil tanker leaking in the harbor near Main St.,"Coastal Guard,Environmental",100,1
+Reporting a broken water main flooding the downtown street near the Mall.,"Utilities,Public Works",57,0
+I see a wildfire approaching residential area near the Suburbs.,"Fire,Police,Environmental",100,1
+URGENT: power lines down on a flooded street near Main St.,"Utilities,Fire,Public Works",71,0
+Calling about a gas smell in the apartment basement near Oak Road.,"Fire,Utilities",80,0
+There is a boat sinking with 5 passengers on board near the Suburbs.,"Coastal Guard,Medical",100,0
+URGENT: active shooter in the shopping mall near Oak Road.,"Police,Medical",100,0
+Reporting a wildfire approaching residential area near Oak Road.,"Fire,Police,Environmental",85,0
+Reporting a homeless camp needing a welfare check near the Mall.,Social Services,23,0
+URGENT: boat sinking with 5 passengers on board near the Suburbs.,"Coastal Guard,Medical",100,1
+URGENT: child found alone and shivering in the park near Oak Road.,"Social Services,Police",30,0
+URGENT: explosion heard in the industrial district near the Port.,"Fire,Police,Medical,Utilities",95,0
+I see a vandalism and graffiti on the school wall near the East Side.,"Police,Public Works",30,1
+There is a domestic dispute with loud screaming near Oak Road.,"Police,Social Services",48,0
+Calling about a someone trying to hack into my bank account near the Suburbs.,"Cyber,Police",43,0
+Reporting a oil tanker leaking in the harbor near Downtown.,"Coastal Guard,Environmental",87,0
+I see a child found alone and shivering in the park near Oak Road.,"Social Services,Police",22,0
+There is a stabbing incident during a street fight near the Mall.,"Police,Medical",95,0
+URGENT: suicidal individual on the bridge ledge near the Port.,"Police,Medical,Social Services",100,1
+There is a someone trying to hack into my bank account near the Suburbs.,"Cyber,Police",65,1
+Calling about a testing connection near the East Side.,Utilities,25,1
+URGENT: active shooter in the shopping mall near Oak Road.,"Police,Medical",100,0
+Reporting a wildfire approaching residential area near the Mall.,"Fire,Police,Environmental",90,0
+I see a active shooter in the shopping mall near the East Side.,"Police,Medical",100,0
+I see a suicidal individual on the bridge ledge near Oak Road.,"Police,Medical,Social Services",97,0
+There is a someone trying to hack into my bank account near the Suburbs.,"Cyber,Police",65,1
+I see a broken water main flooding the downtown street near the East Side.,"Utilities,Public Works",80,1
+There is a vandalism and graffiti on the school wall near the Port.,"Police,Public Works",30,1
+Reporting a boat sinking with 5 passengers on board near Main St.,"Coastal Guard,Medical",100,1
+I see a explosion heard in the industrial district near the Mall.,"Fire,Police,Medical,Utilities",100,1
+I see a stabbing incident during a street fight near Main St.,"Police,Medical",88,0
+I see a raccoon trapped in a residential chimney near Main St.,Animal Control,23,0
+Calling about a vandalism and graffiti on the school wall near Downtown.,"Police,Public Works",7,0
+Reporting a aggressive pitbull attacking a pedestrian near Main St.,"Animal Control,Medical,Police",85,1
+I see a wildfire approaching residential area near Downtown.,"Fire,Police,Environmental",96,0
+Reporting a oil tanker leaking in the harbor near the Port.,"Coastal Guard,Environmental",100,1
+There is a someone trying to hack into my bank account near Main St.,"Cyber,Police",38,0
+Reporting a large warehouse fire with chemical containers near the Suburbs.,"Fire,Environmental,Medical",90,0
+URGENT: large warehouse fire with chemical containers near Oak Road.,"Fire,Environmental,Medical",95,0
+Reporting a identity theft and fraudulent credit cards near the Suburbs.,"Cyber,Police",60,1
+There is a street light out at a busy intersection near the Mall.,"Public Works,Utilities",32,1
+Reporting a large warehouse fire with chemical containers near the Port.,"Fire,Environmental,Medical",90,0
+There is a someone trying to hack into my bank account near the Mall.,"Cyber,Police",65,1
+Calling about a raccoon trapped in a residential chimney near Downtown.,Animal Control,35,1
+URGENT: aggressive pitbull attacking a pedestrian near the Port.,"Animal Control,Medical,Police",59,0
+There is a wildfire approaching residential area near the East Side.,"Fire,Police,Environmental",100,0
+URGENT: someone trying to hack into my bank account near Main St.,"Cyber,Police",37,0
+URGENT: identity theft and fraudulent credit cards near Oak Road.,"Cyber,Police",60,1
+Calling about a domestic dispute with loud screaming near the Suburbs.,"Police,Social Services",52,0
+There is a wildfire approaching residential area near the Mall.,"Fire,Police,Environmental",93,0
+Reporting a illegal dumping of toxic waste in the river near the East Side.,"Environmental,Police",64,0
+Calling about a stabbing incident during a street fight near Main St.,"Police,Medical",86,0
+Reporting a cyber attack on city water treatment plant near the Mall.,"Cyber,Utilities,Public Works",94,0
+URGENT: explosion heard in the industrial district near Downtown.,"Fire,Police,Medical,Utilities",100,0
+Calling about a illegal dumping of toxic waste in the river near the Suburbs.,"Environmental,Police",62,0
+Calling about a suicidal individual on the bridge ledge near the Mall.,"Police,Medical,Social Services",91,0
+"Calling about a car accident, vehicle flipped and smoking near the Port.","Fire,Medical,Police",72,0
+Calling about a suicidal individual on the bridge ledge near the Suburbs.,"Police,Medical,Social Services",100,1
+Reporting a wildfire approaching residential area near the Port.,"Fire,Police,Environmental",98,0
+URGENT: active shooter in the shopping mall near the Suburbs.,"Police,Medical",100,1
+I see a broken water main flooding the downtown street near Oak Road.,"Utilities,Public Works",80,1
+There is a broken water main flooding the downtown street near Main St.,"Utilities,Public Works",54,0
+Calling about a boat sinking with 5 passengers on board near Downtown.,"Coastal Guard,Medical",93,0
+I see a active shooter in the shopping mall near Downtown.,"Police,Medical",100,1
+Calling about a boat sinking with 5 passengers on board near Oak Road.,"Coastal Guard,Medical",87,0
+Reporting a aggressive pitbull attacking a pedestrian near Main St.,"Animal Control,Medical,Police",67,0
+Reporting a broken water main flooding the downtown street near the Port.,"Utilities,Public Works",65,0
+Reporting a cyber attack on city water treatment plant near Oak Road.,"Cyber,Utilities,Public Works",100,1
+There is a pothole reported on a quiet residential street near the Port.,Public Works,28,1
+There is a domestic dispute with loud screaming near the Suburbs.,"Police,Social Services",61,0
+Reporting a illegal dumping of toxic waste in the river near the Port.,"Environmental,Police",76,0
