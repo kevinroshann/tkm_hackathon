@@ -1,1 +1,4 @@
 .venv/
+*.joblib
+*.pt
+*.pkl

@@ -7,9 +7,26 @@ from flask_cors import CORS
 from datetime import datetime
 import json
 import os
+import google.generativeai as genai
+from dotenv import load_dotenv
+
+load_dotenv()
 
 app = Flask(__name__)
 CORS(app)
+
+# --- GEMINI CONFIGURATION ---
+GENAI_KEY = os.getenv("GEMINI_API_KEY")
+if GENAI_KEY:
+    genai.configure(api_key=GENAI_KEY)
+    # Using user-specified model
+    try:
+        genai_model = genai.GenerativeModel('models/gemini-2.5-flash-lite-preview-09-2025')
+    except:
+        genai_model = None
+else:
+    print("WARNING: GEMINI_API_KEY not found in .env")
+    genai_model = None
 
 # Emergency Brain Model
 class EmergencyBrain(nn.Module):
@@ -139,10 +156,13 @@ def predict():
         'complaint': text,
         'sos': bool(sos_val),
         'departments': depts if len(depts) > 0 else ['REVIEW_NEEDED'],
+        'initial_depts': depts if len(depts) > 0 else ['REVIEW_NEEDED'], # Track original
+        'backup_requests': [], # Track inter-dept requests
         'severity': score,
         'priority': priority,
         'action': action,
         'resolved': False,
+        'resolved_by': [],
         'resolved_at': None
     }
     
@@ -184,23 +204,145 @@ def resolve_case(case_id):
             except:
                 return jsonify({'error': 'Failed to read logs'}), 500
         
+        # Get Department from request
+        data = request.json or {}
+        resolving_dept = data.get('department') # e.g. "Fire"
+        
         # Find and update the case
         updated = False
+        case_fully_resolved = False
+        
         for log in logs:
             if log.get('id') == case_id:
-                log['resolved'] = True
-                log['resolved_at'] = datetime.now().isoformat()
+                # Ensure resolved_by list exists (backward compatibility)
+                if 'resolved_by' not in log:
+                    log['resolved_by'] = []
+                
+                # Add dept to resolved list if provided and not already there
+                if resolving_dept:
+                    if resolving_dept not in log['resolved_by']:
+                        log['resolved_by'].append(resolving_dept)
+                else:
+                    # Legacy fallback: if no dept provided, resolve all (or just mark resolved)
+                    # Ideally we force dept providing, but for safety:
+                    pass
+
+                # Check if ALL assigned departments have resolved
+                assigned_depts = log.get('departments', [])
+                # clean up department names for comparison (case insensitive often safer but sticking to exact matches for now)
+                
+                # Check if set(resolved_by) covers set(assigned_depts)
+                is_all_resolved = all(d in log['resolved_by'] for d in assigned_depts)
+                
+                if is_all_resolved:
+                    log['resolved'] = True
+                    log['resolved_at'] = datetime.now().isoformat()
+                    case_fully_resolved = True
+                
                 updated = True
                 break
         
         if updated:
             with open(LOGS_FILE, 'w') as f:
                 json.dump(logs, f, indent=2)
-            return jsonify({'success': True, 'id': case_id})
+            return jsonify({'success': True, 'id': case_id, 'fully_resolved': case_fully_resolved})
         else:
             return jsonify({'error': 'Case not found'}), 404
     
     return jsonify({'error': 'No logs file'}), 404
+
+@app.route('/generate_advice', methods=['POST'])
+def generate_advice():
+    if not genai_model:
+        return jsonify({"error": "AI Model not configured (API Key missing or Invalid Model)"}), 503
+    
+    data = request.json
+    complaint = data.get('complaint', '')
+    dept = data.get('departments', [])
+    severity = data.get('severity', 0)
+    audience = data.get('audience', 'responder') # 'civilian' or 'responder'
+    
+    if audience == 'civilian':
+        prompt = f"""
+        Act as a Calm Emergency Dispatcher.
+        Context:
+        - Incident: {complaint}
+        - Severity: {severity}/100
+        
+        Task:
+        Provide 3-4 simple, immediate safety steps for a CIVILIAN (potentially a child) involved in this situation.
+        Focus on "Stay Calm", "Safety First", and "Help is coming".
+        Use very simple language. Short sentences. No complications.
+        """
+    else:
+        # Responder / Tactical
+        prompt = f"""
+        Act as an Emergency Response Tactical Commander.
+        Context:
+        - Incident: {complaint}
+        - Assigned Depts: {', '.join(dept)}
+        - Severity: {severity}/100
+        
+        Task:
+        Generate a precise, immediate tactical checklist for the response team.
+        Format as a markdown list. Keep it under 6 brief points.
+        Include specific safety instructions and equipment requirements.
+        Do not include greetings or filler text.
+        """
+    
+    try:
+        response = genai_model.generate_content(prompt)
+        return jsonify({"advice": response.text})
+    except Exception as e:
+        return jsonify({"error": str(e)}), 500
+
+@app.route('/request_backup', methods=['POST'])
+def request_backup():
+    data = request.json
+    origin = data.get('origin_dept', 'Unknown')
+    target = data.get('target_dept', 'General')
+    message = data.get('message', 'Assistance required')
+    ref_id = data.get('ref_id', 'N/A')
+    
+    # MERGE LOGIC: Update existing case instead of creating new one
+    if os.path.exists(LOGS_FILE):
+        try:
+            with open(LOGS_FILE, 'r') as f:
+                logs = json.load(f)
+            
+            updated = False
+            for log in logs:
+                if log.get('id') == ref_id:
+                    # 1. Add target to assigned departments if not present
+                    current_depts = log.get('departments', [])
+                    if target not in current_depts:
+                        current_depts.append(target)
+                        log['departments'] = current_depts
+                    
+                    # 2. Add alert to backup_requests
+                    if 'backup_requests' not in log:
+                        log['backup_requests'] = []
+                    
+                    log['backup_requests'].append({
+                        "from": origin,
+                        "to": target,
+                        "message": message,
+                        "timestamp": datetime.now().strftime('%H:%M:%S')
+                    })
+                    updated = True
+                    break
+            
+            if updated:
+                with open(LOGS_FILE, 'w') as f:
+                    json.dump(logs, f, indent=2)
+                return jsonify({"success": True, "merged": True})
+            else:
+                return jsonify({"error": "Original case not found"}), 404
+                
+        except Exception as e:
+            return jsonify({"error": str(e)}), 500
+
+    return jsonify({"error": "No logs"}), 404
 
 @app.route('/health', methods=['GET'])
 def health():

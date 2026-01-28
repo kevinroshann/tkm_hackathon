@@ -1,0 +1,37 @@
+[
+  {
+    "id": "20260128081621559422",
+    "timestamp": "2026-01-28T08:16:21.559461",
+    "user_name": "kevin",
+    "user_contact": "23232",
+    "complaint": "fire on 4th floor",
+    "sos": true,
+    "departments": [
+      "Environmental",
+      "Fire",
+      "Medical",
+      "Police",
+      "Social Services"
+    ],
+    "initial_depts": [
+      "Environmental",
+      "Fire",
+      "Medical",
+      "Police"
+    ],
+    "backup_requests": [
+      {
+        "from": "Medical",
+        "to": "Social Services",
+        "message": "Need backup for #20260128081621559422",
+        "timestamp": "08:16:37"
+      }
+    ],
+    "severity": 100,
+    "priority": "CRITICAL",
+    "action": "IMMEDIATE EMERGENCY DEPLOYMENT",
+    "resolved": false,
+    "resolved_by": [],
+    "resolved_at": null
+  }
+]
